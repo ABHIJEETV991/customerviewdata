@@ -1,0 +1,1001 @@
+Customer ID,Date of Last Purchase,Number of Transactions in Last 30 Days,Total Spend in Last 30 Days,Frequent Product Categories,Response to Marketing Campaigns
+726dadbe-6d54-4a66-9258-5af1fd59ea2f,2025-02-01,17,1067.91,"Books, Clothing, Health & Beauty",Opened
+0ddf4b48-deb4-4a1b-91cc-7dd474f35e78,2025-02-02,13,1423.26,"Groceries, Furniture",Converted
+a87f7f48-a7c8-4009-8b75-b988f5dc89ec,2025-02-02,4,1613.97,Sports,Converted
+f35194aa-449e-4512-a824-dbb15329319a,2025-02-02,8,92.51,"Health & Beauty, Clothing",Converted
+0a876d17-7280-4417-8b78-289c5520a652,2025-02-03,19,966.42,Health & Beauty,Ignored
+0ef1ca07-b74c-49c7-8e24-262f964f0662,2025-02-01,3,611.08,"Furniture, Electronics, Sports",Ignored
+f249e2ae-891e-409d-ab82-6545c549ea52,2025-02-02,7,109.84,"Groceries, Books",Ignored
+bfb8e6ed-3f64-4d2e-a9b2-00702afe64c7,2025-02-03,1,1235.58,"Clothing, Groceries, Electronics",Clicked
+a71d3d3a-6be3-4b59-9aa1-1ddb4a705cb6,2025-02-01,19,857.67,Books,Opened
+380c20cc-333f-460f-a8d3-eb17591aa220,2025-02-02,14,131.37,Books,Ignored
+6e061c9c-36f4-4bd2-8247-88aaf168599f,2025-02-03,2,1680.31,"Books, Furniture, Clothing",Converted
+ab9a34aa-f1a1-4b38-bfc2-8f3bb37ca1f4,2025-02-03,12,865.55,Groceries,Clicked
+4d0aab16-e887-4ae7-8c77-021c76a0f638,2025-02-02,1,398.06,"Toys, Furniture",Converted
+12efcec9-bb16-438b-9471-1f96abe0b299,2025-02-03,1,1339.77,"Furniture, Books",Opened
+9e846d07-0de6-4c85-92bc-2ccba3f5e495,2025-02-01,4,1960.77,"Electronics, Groceries, Health & Beauty",Ignored
+3da48acd-e45d-419f-9bd7-bd612dd7136d,2025-02-03,13,988.89,Electronics,Ignored
+cd428acb-1b45-44a6-80af-b3f590442973,2025-02-01,16,1750.38,"Clothing, Health & Beauty, Groceries",Clicked
+123c47bb-7c6b-491c-86a0-91a92a6f61c3,2025-02-01,12,1943.29,"Toys, Clothing, Health & Beauty",Clicked
+acd8879b-34e3-42e7-920d-f6bb3bc3ad59,2025-02-03,2,139.62,Furniture,Clicked
+ccb6b5bb-0c06-450e-992f-fa18a4f1cafc,2025-02-03,16,1561.91,"Health & Beauty, Books, Furniture",Opened
+f49767cd-0dc9-4839-9561-acc5ae6c2a06,2025-02-03,18,786.79,"Electronics, Toys",Clicked
+5b00f4f8-5b31-4548-a38a-22b482e2369a,2025-02-02,7,1429.98,"Electronics, Health & Beauty",Converted
+3976c2c7-ec48-4a94-8346-a4c26474e5d9,2025-02-02,17,522.31,"Clothing, Toys",Opened
+0a96e07b-648f-4c9b-b30d-eb3307e720b6,2025-02-03,8,1040.13,"Health & Beauty, Toys, Furniture",Ignored
+70c247d7-750c-4035-a1c6-313f46e6dd45,2025-02-02,11,381.14,"Clothing, Electronics",Ignored
+fc98600a-160f-4465-a02c-026393068326,2025-02-01,17,163.58,"Toys, Sports",Converted
+1a6d5aa2-de3e-4884-91b7-10293ae775c0,2025-02-02,20,921.72,"Health & Beauty, Groceries, Sports",Ignored
+e315cf83-f532-4f19-9e4f-0450405c3c8c,2025-02-02,16,1846.04,Books,Ignored
+c15c357f-d07d-4f57-b411-b8208ee69917,2025-02-01,19,331.34,Groceries,Ignored
+05d5d375-fa75-4803-9882-8ae1f5ff07f8,2025-02-03,8,1825.16,Electronics,Converted
+25f4f469-093e-4d3e-be5b-981e263fd4ec,2025-02-03,18,958.18,"Toys, Clothing",Converted
+a0dd52db-f9e2-468e-8356-02f3a57acc55,2025-02-03,5,647.01,Toys,Ignored
+87b59cb1-3066-474e-831b-d5c1b3d29e00,2025-02-03,16,460.39,Books,Ignored
+5fc54a30-3e1a-40c2-8b58-1602e1135262,2025-02-03,18,1340.91,"Sports, Groceries",Clicked
+578b9a00-899e-4559-825d-515cb5f40efe,2025-02-02,17,1841.22,"Electronics, Sports, Toys",Ignored
+b1079f25-4011-49f5-981f-266743ab9648,2025-02-02,7,284.42,Sports,Opened
+57671d2c-e115-4e19-a1f4-1c653be1d38b,2025-02-02,15,1582.31,"Books, Electronics, Sports",Clicked
+fd9d2f71-0a1f-4b4c-91c0-558bf321333c,2025-02-01,5,349.82,Books,Ignored
+092b6c96-e425-4bab-9510-24c792948339,2025-02-03,8,1731.57,Electronics,Ignored
+3e8b0c5d-ada4-4c6a-99e3-3edeebb1fb1f,2025-02-03,11,523.34,"Toys, Electronics, Health & Beauty",Converted
+34852cd4-28a0-46f9-a5bf-7b69f7b66b95,2025-02-01,19,1477.68,Books,Opened
+bb885742-90df-4922-ac42-24b97b3f7b4a,2025-02-01,14,989.17,"Sports, Books, Groceries",Converted
+fa20522d-aed6-4cac-9bc8-8d36e8858f9f,2025-02-02,8,1547.3,"Sports, Electronics, Furniture",Converted
+a5071818-cc55-4dbb-b589-72343d12f3e8,2025-02-03,10,1756.59,"Toys, Electronics, Groceries",Opened
+e290c16e-0917-4c0a-9136-495cbedca1a4,2025-02-03,15,1826.86,Books,Clicked
+13425599-6821-42c4-aa98-de75be372ca7,2025-02-03,7,534.86,"Books, Toys",Ignored
+5a41fa48-f725-4597-9f9a-5c6c8d2f6b04,2025-02-03,10,296.76,"Furniture, Groceries, Books",Clicked
+8a60fb67-0664-4e51-9bc6-612f8c2bf39f,2025-02-02,9,743.28,"Toys, Clothing",Ignored
+52a30c4b-eed0-4c5a-b68e-cddc5149fde6,2025-02-03,5,750.54,"Furniture, Clothing, Health & Beauty",Opened
+57b5fe83-a0a4-43b9-aa9a-f6a35ffe73ee,2025-02-02,9,1112.63,"Electronics, Books",Converted
+e706c4e0-6e81-4812-994c-dfb5368ada77,2025-02-01,3,1788.09,"Clothing, Sports",Opened
+7671bfce-9139-48da-bbc2-5851187455a6,2025-02-01,9,1239.47,Toys,Converted
+71bc00c6-6017-4b3f-a46e-abeddb54d5b3,2025-02-01,9,1585.12,"Groceries, Clothing, Sports",Converted
+ced3a0fe-f945-4621-8a7f-fc8fd84984a6,2025-02-01,7,1584.22,Sports,Opened
+8b327812-4c8d-41d4-926f-620052d6faee,2025-02-03,1,1609.71,Toys,Converted
+846aa2ce-fb1e-4738-b1e3-eabf7c58bc03,2025-02-02,18,1048.79,"Toys, Groceries",Ignored
+c41c90f2-21a0-4293-a8c5-3d1487d3af14,2025-02-01,2,1385.44,"Sports, Clothing",Converted
+5195c3c2-98bc-4ceb-9935-f31c6288794e,2025-02-02,12,1049.67,Furniture,Converted
+2847896c-55f0-4eb2-ba04-7be2d3f8dd8b,2025-02-02,8,304.3,"Furniture, Electronics",Clicked
+74f3aca3-3a3a-4aea-96cd-ab47b6923d7b,2025-02-01,7,1441.58,"Books, Electronics, Furniture",Clicked
+5715aca0-e065-484b-99ed-53a894f46620,2025-02-03,6,126.07,"Health & Beauty, Books, Electronics",Clicked
+164658c7-e651-4e5f-8d38-6e697ccebff4,2025-02-03,19,1880.19,"Clothing, Groceries",Ignored
+dca260ba-4a4a-44c8-b1fe-c873df5487f8,2025-02-02,2,944.85,"Toys, Clothing",Clicked
+448e4b4c-2c4b-4ae5-8cca-8333620e8357,2025-02-03,20,1553.8,"Sports, Books",Ignored
+bb9f531a-7f5e-4d5e-98ea-a8cf3759f440,2025-02-03,13,1837.55,"Books, Sports, Electronics",Clicked
+d756901f-7cb6-4b70-813f-c551961dd6bf,2025-02-03,9,1788.06,"Furniture, Electronics",Opened
+cb69bf86-34eb-49ae-b6d0-c40f7ab80a49,2025-02-01,12,1665.43,"Sports, Books, Health & Beauty",Converted
+d63212b7-acdb-4c50-80f3-c0cb7be9ac48,2025-02-02,4,1313.48,"Health & Beauty, Toys",Clicked
+dfcfd912-5559-4080-9484-2a018755be7b,2025-02-01,13,679.97,Furniture,Converted
+8027e856-49c4-4cb4-bb10-e107b122d32c,2025-02-01,11,1569.77,"Clothing, Groceries, Sports",Ignored
+2d3b7909-ee51-4101-942b-9563ebee5cc3,2025-02-03,7,784.35,Health & Beauty,Ignored
+85ad0a02-b910-4171-b417-9c3cf1fe3d06,2025-02-02,15,751.91,"Furniture, Books, Health & Beauty",Clicked
+665a31e8-aa82-4a92-bc06-bec8f4fc2fd6,2025-02-02,7,1048.62,Electronics,Converted
+f8d10dad-bdb6-436b-9a29-cd804bfe80d1,2025-02-03,15,1947.33,"Groceries, Books, Electronics",Converted
+a1275823-528e-4b00-8037-c3f9a410491f,2025-02-03,19,577.65,"Sports, Books, Furniture",Converted
+dca00056-e776-43e6-a940-430684a2db86,2025-02-01,10,538.0,"Books, Clothing",Opened
+c08f58a3-52ec-4c8c-bc97-3b9be6722c7a,2025-02-02,2,358.34,"Furniture, Books, Sports",Converted
+2037642c-e675-4fd5-a207-91129ff617a0,2025-02-02,5,925.18,"Health & Beauty, Clothing, Groceries",Opened
+473fc547-cf9f-40d6-8df9-0ae20e0dbe21,2025-02-01,5,1696.1,"Sports, Furniture",Clicked
+4fc035d8-ab34-4e56-bcfc-7172dcc51a78,2025-02-01,9,1904.03,Clothing,Opened
+37e051f2-3d74-4a71-8ddf-68399f63db4e,2025-02-01,9,986.49,"Electronics, Sports",Clicked
+68b85569-039c-478d-a9c4-62d4216a9640,2025-02-03,3,223.3,"Clothing, Toys",Converted
+af4af082-d79c-424a-9f68-5945e5d0dd12,2025-02-03,18,1562.4,"Books, Sports",Clicked
+cf9cdad5-021c-46a4-8dba-ad094835be03,2025-02-01,12,1965.0,"Toys, Health & Beauty, Sports",Clicked
+c9eecb35-ed90-4b4f-a6c5-c6bf8ca30f81,2025-02-01,15,1322.41,"Toys, Health & Beauty",Opened
+d3ec9ede-62a9-4e6c-b7ce-5792f29db4e4,2025-02-01,1,1105.28,"Books, Health & Beauty, Toys",Clicked
+64fa8597-8b40-4647-8719-91db63a163ca,2025-02-02,20,689.99,Furniture,Clicked
+34529b24-af7f-4752-9ac3-a6306cd5169f,2025-02-03,4,1569.71,"Toys, Sports, Electronics",Clicked
+cc73909d-2ba7-4ffe-83d2-589436cb7ef6,2025-02-02,3,1951.18,Books,Opened
+2f40c136-acd6-4acd-920a-824d736c3c2e,2025-02-02,5,1605.17,"Furniture, Groceries, Electronics",Converted
+cd83bc81-f9b1-492d-9221-ed64a26cc025,2025-02-02,4,634.91,"Toys, Health & Beauty",Ignored
+acc66b55-190f-473d-9869-490f67075803,2025-02-03,6,1768.11,"Groceries, Toys, Electronics",Ignored
+42303013-f9ac-41a4-af00-4b5f910d7c0d,2025-02-02,7,1383.56,"Toys, Furniture, Health & Beauty",Opened
+e3ec137e-779d-4b78-83b3-45f50eafaa12,2025-02-03,2,219.37,Toys,Ignored
+0012a821-f025-46e7-8ca0-5992a927c620,2025-02-03,6,586.81,"Sports, Groceries",Ignored
+c401aacf-842f-4a8f-8d60-3983dc762cbd,2025-02-03,18,206.47,Furniture,Ignored
+9c1e88e0-0514-4f88-9dba-c818ab38a22e,2025-02-03,14,927.86,"Groceries, Clothing, Health & Beauty",Ignored
+3a9bffb0-f8fd-49c9-b27e-c0a241b3040b,2025-02-01,15,670.45,"Sports, Electronics, Toys",Opened
+2fc3201e-c79c-4da7-a421-2b794d1383d5,2025-02-03,1,1694.85,"Sports, Furniture",Converted
+4dd6d601-a6fa-472e-8318-b823ee164463,2025-02-03,10,692.74,"Furniture, Toys, Electronics",Ignored
+e9f35b39-08fe-491c-8233-4a0424d57dab,2025-02-03,8,678.49,Books,Opened
+92ac1de0-4aca-49d0-b742-8b16b6179e66,2025-02-02,9,1740.88,"Books, Sports, Clothing",Clicked
+bfa027d0-2797-4f31-82f7-5b71c706c293,2025-02-01,20,999.27,Sports,Converted
+328dce70-724e-4041-8a56-e6769f972602,2025-02-03,9,274.21,Health & Beauty,Ignored
+19d8713f-c96e-4ed5-af2d-8306a4201b09,2025-02-02,5,300.32,"Furniture, Books, Toys",Clicked
+0a5f1148-698d-41ce-bdfe-bb42946e98ff,2025-02-03,6,1436.77,"Groceries, Books, Electronics",Opened
+0a2f676a-2035-4987-a8fb-27d5df967566,2025-02-02,3,1536.78,"Toys, Groceries",Ignored
+10edf446-ede0-4a98-8491-7df219911032,2025-02-01,13,1458.86,"Books, Sports",Ignored
+d13667fc-009f-483b-bcc1-69770edda67f,2025-02-01,10,1493.09,"Furniture, Electronics",Converted
+304b6427-3683-4ed4-9134-993b18e3311b,2025-02-03,4,341.75,Books,Opened
+57e65f53-9b49-4cb2-8246-3807daeb24a8,2025-02-01,1,810.84,Books,Clicked
+74225c68-1067-43c1-87ee-cc0fd0e02275,2025-02-02,17,1235.55,Toys,Opened
+3c3dd53b-2a84-4df5-ab50-a8ae04391b83,2025-02-01,11,253.26,"Books, Clothing",Converted
+a973c0e6-2d5a-4fc6-a85b-a54d79c9e775,2025-02-01,19,1818.47,"Clothing, Electronics",Clicked
+d6821878-2f86-40e6-81df-6ab79edd2e9d,2025-02-01,6,327.61,"Sports, Books",Ignored
+e9d8894d-c7e6-46b7-baa1-274864b13d53,2025-02-02,6,1317.01,"Toys, Clothing",Converted
+35eb7167-988a-4ec9-92ba-2b35725ad5ca,2025-02-01,15,1338.17,"Sports, Furniture",Ignored
+c3689183-0c49-4c83-b5d3-bb81a42137c9,2025-02-01,3,1175.43,Sports,Clicked
+0431faa0-3ac9-4e6b-a28f-1a38321d8fb2,2025-02-01,10,1083.86,"Groceries, Electronics, Sports",Clicked
+3ac71bc1-bfec-4e27-9a2f-48ec722719af,2025-02-01,5,982.98,"Health & Beauty, Electronics",Converted
+43e8582a-252d-4a16-9353-7f82f97d01e6,2025-02-02,3,1002.71,Sports,Converted
+0f69a659-f197-49cd-907f-c5f6d4451e7f,2025-02-02,1,1164.73,"Groceries, Books",Clicked
+8d51bee0-d389-42ba-9d26-954db3ff06ed,2025-02-02,1,729.12,Sports,Clicked
+ed9bea8b-dcfd-4e98-94ec-3c7307b78965,2025-02-02,20,709.47,"Groceries, Clothing",Ignored
+39bd1532-d71b-4c1b-8f69-7f612fae2a78,2025-02-02,7,1339.0,"Clothing, Furniture",Clicked
+5ec2bf51-84ee-4a17-9859-2f103c566a77,2025-02-03,8,1434.13,"Furniture, Toys",Clicked
+78d129c4-3d99-4b63-ade2-772c5d8519c8,2025-02-01,17,55.59,Furniture,Opened
+f5bd8151-5259-4fd6-9892-3449341ff979,2025-02-03,12,618.62,"Health & Beauty, Electronics",Opened
+74f6bace-cc19-48d4-9de7-064af501a98b,2025-02-01,19,1053.21,Health & Beauty,Opened
+e6e81124-1a0e-4538-8556-1c1177eaba92,2025-02-02,13,667.67,"Toys, Groceries",Opened
+a288ec66-b497-4aaf-a379-f8540a52f129,2025-02-01,3,925.87,"Clothing, Furniture",Clicked
+8b28813e-611f-49e1-bb26-7175ffeb668b,2025-02-03,20,1946.73,Health & Beauty,Converted
+8591c251-2e23-4c70-b309-83889481c408,2025-02-02,13,403.41,Groceries,Opened
+dcc82825-7f44-4857-ab50-379fae3c923d,2025-02-01,10,1766.6,Books,Opened
+4cd77b43-e2d3-4cd9-b12d-917e890f4ef1,2025-02-01,11,726.26,"Groceries, Sports, Toys",Opened
+350a68d4-0349-40fb-ab7c-219bb08b05c5,2025-02-03,12,111.28,"Toys, Electronics",Ignored
+314ffb21-77a9-48e3-97ef-2c99efd2478f,2025-02-03,13,834.34,"Groceries, Clothing, Sports",Ignored
+9a1a2d3c-5c0e-4cd7-a8eb-57416e81a42f,2025-02-03,2,810.8,Clothing,Converted
+b56b7755-7bec-40cf-aefc-9e83abfa651a,2025-02-03,19,554.69,"Furniture, Clothing",Clicked
+3fb48fcc-ab8e-431a-a773-474f5cc531c7,2025-02-02,17,1052.85,"Health & Beauty, Groceries, Books",Ignored
+1edb0450-1cbc-462d-8b20-1a32f4968dac,2025-02-01,4,1009.96,Books,Opened
+b24cb21f-cf06-4c99-b234-7133ed5576c2,2025-02-01,11,788.6,"Health & Beauty, Furniture",Opened
+63ba98cd-9de2-425f-8c8b-6b3433cddc3f,2025-02-03,18,266.82,"Electronics, Furniture",Opened
+9e17c55c-aef7-445d-a8b0-8789ca6bf63d,2025-02-03,3,1232.81,Electronics,Clicked
+37a316dd-e540-410b-89ec-9490abf59f95,2025-02-03,4,626.51,"Electronics, Groceries",Converted
+e4fa6ca9-a203-4c2d-bd97-3006701a3f44,2025-02-01,20,961.27,"Books, Clothing, Sports",Clicked
+496b59ed-d982-4f8a-a368-ef0acaa1bd44,2025-02-03,5,958.03,"Groceries, Toys, Electronics",Opened
+84837958-3cc3-4ea0-bb7d-be3520309218,2025-02-01,13,1634.76,Books,Opened
+7121b569-84e4-47f6-8c09-4785d65b67c8,2025-02-03,3,1244.51,"Electronics, Health & Beauty, Toys",Clicked
+a8d00846-5603-4c04-be64-f5277af6b5e0,2025-02-02,20,94.22,"Groceries, Toys",Opened
+27262cb1-b98c-4372-a2ee-d309a67ffea0,2025-02-01,6,735.58,Books,Opened
+c7677b22-d61c-4e02-afd5-55c8f555ec61,2025-02-03,17,1474.35,"Electronics, Groceries",Clicked
+42482e9b-18ae-4a0b-b99f-9717bee2edce,2025-02-03,19,875.78,Toys,Converted
+f4b2b657-4bee-48be-aba2-b46e584768b3,2025-02-01,7,1463.82,"Health & Beauty, Toys",Converted
+05eb0c91-beca-457f-bf11-273f38c0e991,2025-02-02,9,1207.17,"Clothing, Toys",Opened
+1c7fb8cd-d4ab-4493-8fda-172d0e155329,2025-02-02,12,1863.84,"Sports, Health & Beauty, Furniture",Ignored
+3248eeba-155a-4da7-ac26-fecd736d72bb,2025-02-01,6,1825.48,Toys,Opened
+e5402860-dcd1-4e28-9b40-1f343fa69286,2025-02-02,14,54.03,"Toys, Clothing, Groceries",Clicked
+e3f3fd95-8e96-439a-8816-4de3d6070413,2025-02-02,4,294.73,"Books, Toys, Electronics",Clicked
+320fcf03-25c9-481b-9770-14020cc8ed31,2025-02-03,15,734.9,Furniture,Clicked
+e4ed4d85-1852-461a-aba0-7844385d7ec1,2025-02-01,9,1784.43,"Furniture, Books",Ignored
+6616c275-e408-4afc-90a8-51ef5fc56518,2025-02-02,13,878.36,"Health & Beauty, Sports, Furniture",Converted
+7513fd45-1523-42eb-a30f-803091bcdfec,2025-02-02,14,820.52,Health & Beauty,Opened
+aab0e3bf-f7e9-4d5d-917a-c4402bb70cd8,2025-02-02,19,1357.18,"Furniture, Books, Sports",Opened
+2f520182-3368-4ed8-a050-0df1c2ff4f8b,2025-02-01,7,1352.57,Sports,Clicked
+843da533-9241-4385-aebe-06836f4576ef,2025-02-03,2,362.67,Furniture,Clicked
+d83a783b-80dc-4dc4-9e7f-3ea9753eaa33,2025-02-01,3,451.87,Health & Beauty,Ignored
+4ab8554a-9b6c-4ab2-8a61-b151dd835a64,2025-02-03,2,1542.29,"Groceries, Health & Beauty",Clicked
+ee393aaa-646f-4b28-bf27-fc0ea8838090,2025-02-03,12,1039.18,Books,Ignored
+c67b363c-0453-4085-bb56-4d546d44fbe2,2025-02-01,9,571.32,Books,Clicked
+3b9b12bd-1c0a-4799-b4c3-fd82143f8258,2025-02-03,8,1276.51,"Clothing, Sports",Opened
+9d107ddf-e49a-4c25-bb4f-c62f896b27e3,2025-02-03,14,1419.98,Books,Clicked
+214519f4-f7aa-4aac-a00a-5b0409f21d90,2025-02-01,1,1276.93,"Groceries, Toys",Converted
+8a691cce-2af6-4ec4-a5a0-f763c331e1e0,2025-02-02,19,1053.97,Furniture,Opened
+6ce31a01-8d84-49b9-9f96-92e620dd1468,2025-02-02,4,1260.01,"Electronics, Sports",Ignored
+39747ed0-fdd6-493b-b581-6c6e0ccb37dc,2025-02-03,2,706.52,"Electronics, Groceries",Ignored
+92340ed3-1089-4792-a449-83bf067fbc07,2025-02-01,15,1741.93,"Books, Groceries, Electronics",Clicked
+01a80430-906f-4cff-8109-4371e682377f,2025-02-01,5,234.22,Sports,Clicked
+11bcb6fb-da90-45f7-b3ae-57b190217541,2025-02-03,14,838.8,"Furniture, Health & Beauty, Sports",Converted
+00237a53-bf59-4765-99fc-bdb363c33c65,2025-02-01,9,1547.01,"Electronics, Books, Clothing",Ignored
+700ccb25-c957-4636-8e44-222410aa16aa,2025-02-01,12,385.64,Groceries,Converted
+4fdbb69a-948e-49aa-a162-e9d5fbe2ee1d,2025-02-02,14,105.34,"Toys, Health & Beauty",Ignored
+5d120f59-6a2b-4eb2-8d94-abaf3fb0a580,2025-02-01,9,1628.08,Toys,Clicked
+5571513f-2285-436b-b7ed-a7db5c75d351,2025-02-03,20,1698.39,"Health & Beauty, Groceries",Converted
+feeb612c-54c1-4002-9596-5a508a5c1160,2025-02-01,1,1561.21,"Furniture, Electronics",Clicked
+9736350a-8b9c-4cfc-8955-38f075acb093,2025-02-01,12,1438.38,Toys,Ignored
+40b49ef4-4d32-43c5-9d23-5311d1ca5a7a,2025-02-03,20,97.19,"Health & Beauty, Toys",Ignored
+656d14a4-8bff-4ddd-aeea-94a65342a89d,2025-02-03,7,1333.36,"Furniture, Clothing, Health & Beauty",Converted
+bba73628-222a-40d5-b28b-3c2f72ff590a,2025-02-01,4,477.27,"Health & Beauty, Electronics",Converted
+3f9a64f0-4835-41ed-919e-f048002fae0f,2025-02-02,18,1627.66,Furniture,Ignored
+4aab8744-36b7-45b0-b7e4-8b1b69b1831b,2025-02-01,11,1526.87,"Groceries, Books, Electronics",Converted
+3fae21ab-42a0-4982-93f2-59bfaa534452,2025-02-01,2,1329.06,"Health & Beauty, Groceries",Opened
+112ebf57-35cd-4451-b053-4cdbbf6a0311,2025-02-03,12,719.49,"Electronics, Clothing",Opened
+4b836257-ee03-4de8-be64-f2dc55165339,2025-02-03,10,764.15,"Books, Groceries",Clicked
+ad1f095d-9194-4cb4-bb2d-5093ed3d7b7d,2025-02-02,9,941.49,"Sports, Toys",Ignored
+7d0f9f1a-062d-4cc0-ac83-870326e42fde,2025-02-03,2,1199.45,"Toys, Clothing",Ignored
+53c5ab30-dd8e-4785-bb94-8db4d0e37e51,2025-02-02,14,691.1,"Books, Clothing, Electronics",Opened
+ada83829-29d2-4d76-9252-4372bdb20537,2025-02-03,18,1042.0,"Sports, Health & Beauty",Converted
+c7ce76ae-eb5f-433b-af23-3731019e6b16,2025-02-02,5,81.94,"Books, Sports, Electronics",Clicked
+3ffc9aae-04ca-43ac-889c-c51b707e4877,2025-02-02,10,1313.44,"Clothing, Toys, Health & Beauty",Clicked
+c2e5812a-7548-4629-b635-11418eb27c2d,2025-02-03,18,1852.79,Health & Beauty,Opened
+9975d13b-4908-465a-b8d2-50e83d757154,2025-02-03,11,319.44,Sports,Converted
+493f1e69-24d7-4a5d-a613-20ef4cc34ee4,2025-02-02,16,564.49,Toys,Ignored
+3dcbcaba-b1f4-42b2-ae2d-7a9f68aebf7c,2025-02-01,6,1840.25,Health & Beauty,Opened
+2a16c093-8842-4dc7-94de-c8dcf5ccb901,2025-02-03,20,1723.74,Sports,Ignored
+0b92f9e4-e6bc-422e-9fdb-66ae9511d46e,2025-02-03,10,1427.81,Furniture,Ignored
+ba4e5671-cf70-4fad-88be-cb3f3768e7b2,2025-02-02,19,1359.89,"Clothing, Books, Sports",Converted
+4626ef6a-5261-4693-9b05-40f03532f935,2025-02-03,15,820.73,"Sports, Furniture, Groceries",Opened
+434520e6-967f-4220-8bd9-98e320c9d0ef,2025-02-01,13,1935.44,Toys,Ignored
+0455db1a-8c4d-40ee-85f8-b5a2f90d81e1,2025-02-03,12,1983.22,"Electronics, Health & Beauty, Toys",Opened
+1af2e8e0-85e2-4a6d-a35f-a29dbe9d9a94,2025-02-03,14,1771.25,Furniture,Ignored
+982a7cf9-4632-4aa6-b236-c00404876cc1,2025-02-02,2,1689.26,"Electronics, Clothing, Groceries",Clicked
+4f332b79-a7c4-4d50-baf3-b02363bf170f,2025-02-01,6,1662.02,Clothing,Clicked
+4d8c78e4-9441-498e-8e3a-697ac7e39e84,2025-02-02,3,1046.37,Health & Beauty,Converted
+ad9add00-54ba-47ec-9417-8b857d02616f,2025-02-01,10,1593.59,"Health & Beauty, Sports",Opened
+003ff3ba-c529-4da0-b8e0-493060eeadbb,2025-02-03,5,1154.76,Sports,Clicked
+4fc83d7c-210a-4f85-b8e7-8bc027f5d253,2025-02-03,9,1446.68,"Sports, Electronics",Opened
+fc32699f-32cb-4a7d-b178-a2a5adb8ee86,2025-02-02,16,877.63,"Clothing, Groceries, Sports",Ignored
+8471d0a3-e9f3-4fb6-a87f-123f2e966a39,2025-02-01,16,1269.79,Sports,Opened
+97da1644-064b-41a3-b903-a5a7ad003e3d,2025-02-02,9,1069.34,Sports,Converted
+11fbc3b3-73ff-4ae5-940b-e8c602b03e22,2025-02-03,19,550.31,"Clothing, Health & Beauty, Furniture",Converted
+bedbbaf2-c5f9-41f1-93bf-14add51eac14,2025-02-01,12,683.38,Toys,Opened
+afad1bce-50f8-4e7e-ac06-07563435d7b5,2025-02-01,12,1454.48,"Toys, Furniture",Clicked
+83a490fa-cf4e-40e5-b677-1e683289b0f4,2025-02-01,6,437.95,"Electronics, Sports",Ignored
+8ad9491e-02f9-4b46-9916-c76b9f5d93a5,2025-02-01,1,1824.35,Health & Beauty,Ignored
+8e0908a4-f606-4736-bb33-be73e4d2fbd5,2025-02-02,9,586.56,Sports,Clicked
+d4747a6e-248f-4771-8ac2-ddc37bb16663,2025-02-01,20,1028.99,"Books, Groceries, Electronics",Converted
+a0da243e-26c6-4311-8420-07fbeeeaa331,2025-02-01,15,1996.14,"Furniture, Groceries",Converted
+d9661d01-f96a-435a-9f02-7b3a2c2e2f74,2025-02-01,8,1018.44,Sports,Opened
+a22a7a49-134d-46a3-ad6c-3ee7829da0e7,2025-02-01,12,1259.73,Sports,Clicked
+3d108086-8f72-4f38-9987-0148ab3d412a,2025-02-02,6,732.86,"Furniture, Books",Converted
+b0a56135-c2a5-46c8-aa35-d145eb232ab2,2025-02-02,6,1723.88,Electronics,Ignored
+257a1223-0837-4a67-94d6-048de20a9283,2025-02-03,6,1845.81,"Electronics, Books",Opened
+b2f5ce4e-b893-4afb-a3fe-d0a954abe6ab,2025-02-03,6,526.63,"Toys, Sports",Converted
+67d0a872-3617-446f-93ba-ca04956876ce,2025-02-01,15,300.89,"Groceries, Toys",Ignored
+c4dcedec-60b6-42dd-9613-de9c8e6e0ea3,2025-02-03,16,926.7,Furniture,Converted
+b9f8f00e-87bc-4f21-b16d-0702485a4483,2025-02-03,18,1810.08,Furniture,Ignored
+db772e85-9c58-4d45-9231-945133f958ee,2025-02-02,4,1174.75,Toys,Clicked
+334ed4d6-a459-413e-9d98-df6b8e9cacb1,2025-02-02,1,113.56,"Toys, Books, Electronics",Clicked
+28f2e3f2-d182-4104-919c-b82bf96f1c25,2025-02-02,5,1088.57,"Toys, Books",Ignored
+6e2c3b10-caf3-4cea-9c94-0bc0d92ee311,2025-02-02,8,1007.92,Sports,Opened
+a9775408-4630-4d19-a944-2c744e014da0,2025-02-02,17,1541.64,"Toys, Furniture",Opened
+ac358aec-caff-4127-b58b-e0afc5120e78,2025-02-02,19,1181.51,"Toys, Groceries",Converted
+9c276d15-2def-4d62-b862-e06c759cf7b6,2025-02-01,2,586.32,"Groceries, Electronics, Toys",Opened
+7487bb77-59d2-46e5-a446-fd613550dcb9,2025-02-03,2,982.62,Sports,Converted
+0a9d20fa-248c-4ccf-b0e3-58d687782cb0,2025-02-01,1,1730.75,"Books, Groceries",Ignored
+b0a9c737-88ff-4f90-b06f-58f7c8d4c4e2,2025-02-02,6,1208.7,Electronics,Converted
+e009d39d-49c2-4d53-9f2b-2e8e7e3c5988,2025-02-01,15,114.91,"Health & Beauty, Groceries, Sports",Ignored
+3022c6f9-e2bc-4629-9bab-585b317628eb,2025-02-02,11,623.31,Electronics,Ignored
+bffc528f-e23d-483e-8cb2-331044272af1,2025-02-02,9,470.74,"Health & Beauty, Clothing, Sports",Ignored
+e1a08047-5c71-47b2-bfdf-5f23574baca5,2025-02-01,12,829.06,"Sports, Clothing, Toys",Ignored
+174275fd-6bc4-4403-be8c-fff599dcac76,2025-02-03,6,338.68,"Electronics, Books, Sports",Opened
+1212b488-be38-4538-b426-3825946a2819,2025-02-01,14,855.38,"Clothing, Books",Clicked
+4d65d39f-ba84-45e4-9d9b-864e2c02f19e,2025-02-01,18,1566.09,Groceries,Converted
+335e6e73-f8d7-4e07-89e2-b77789c96b9b,2025-02-01,13,552.59,Electronics,Ignored
+7b666fbc-c277-4fb3-8741-aed4b102edac,2025-02-02,19,1491.96,"Furniture, Toys",Clicked
+314ca288-03d8-4b44-83a1-5e7b2e894673,2025-02-03,8,1542.47,"Furniture, Books, Electronics",Opened
+ebf97a02-057d-4b90-9380-15fa7f01dae4,2025-02-01,20,1093.49,"Electronics, Clothing",Converted
+2819d580-7be4-4701-ba29-5cb66972ba6c,2025-02-01,11,145.24,Groceries,Opened
+ecc926d2-6cad-404f-9628-f199c321c36e,2025-02-01,16,1223.07,Sports,Ignored
+04428900-c12e-4c33-99f3-e4042f03c93c,2025-02-03,13,1129.33,"Furniture, Sports",Ignored
+4612f889-3d9f-4ea5-8131-eaf4427b8bd0,2025-02-02,9,1531.91,"Clothing, Health & Beauty",Converted
+ea160a53-1088-457e-a9e8-81149dfeb022,2025-02-03,6,331.88,"Electronics, Groceries",Clicked
+7b962fbe-0e11-4c2b-9fda-cdb551f6c9ad,2025-02-01,14,535.32,Clothing,Opened
+ad773e52-be67-4735-81d8-d2eaa8a42045,2025-02-01,3,886.87,Health & Beauty,Opened
+e2356bac-f95f-43a7-8f38-4858e4456440,2025-02-03,5,1461.76,"Health & Beauty, Toys, Electronics",Converted
+0ef40ebd-c1d8-4e27-8d33-d55dc0d4593f,2025-02-03,19,800.66,"Clothing, Toys",Ignored
+14ca7059-001c-428d-8a77-6c37f4b3b056,2025-02-01,7,1964.94,"Toys, Electronics",Clicked
+69b8aa4d-b17e-4336-b831-fe201519bc94,2025-02-03,13,973.74,"Clothing, Furniture",Converted
+f577eb7a-f096-4e27-ada8-ebc1ee767a8a,2025-02-01,1,1041.26,"Groceries, Health & Beauty",Ignored
+a9bc4e2e-dae8-479d-a83f-905c6f2efb68,2025-02-03,3,1868.67,Sports,Clicked
+ae5f7f4f-c51f-4c0f-98a0-91ca3359886d,2025-02-02,1,78.98,Furniture,Ignored
+650e35fa-74cd-4527-89cc-ce40abf85c37,2025-02-01,10,823.31,"Toys, Groceries, Clothing",Ignored
+05f1f54b-0311-474e-ba84-b590449f4ef6,2025-02-02,3,288.83,Electronics,Converted
+77166f19-2ee3-4f25-8245-22d239c0f1f0,2025-02-03,18,1233.51,Health & Beauty,Opened
+44c4d1ff-2f16-4f59-b87a-db45ee86974b,2025-02-01,19,251.95,"Toys, Electronics",Clicked
+be867b41-785a-42c8-b165-26525744addf,2025-02-02,6,228.88,"Health & Beauty, Books, Furniture",Converted
+934f5c57-bac1-4d54-964d-068b7b26c540,2025-02-01,5,347.61,Furniture,Opened
+537ec475-e9c1-4637-9b27-29f3ac38e0e3,2025-02-02,12,1767.4,"Electronics, Health & Beauty, Sports",Opened
+ae7c1307-956b-4740-86b5-0ad628ddf515,2025-02-02,14,1624.63,"Books, Electronics",Converted
+5c3d9538-5cff-4338-9c00-8409e7a41832,2025-02-02,11,1372.09,"Groceries, Furniture",Clicked
+2902e758-11bf-48de-97dc-4bd5da3dc8eb,2025-02-02,20,1931.97,Electronics,Converted
+7432f51c-1ddb-4823-ac79-6baf7cd86722,2025-02-02,5,86.7,Clothing,Opened
+211abe4b-9a42-4d20-ae76-8ee84599b427,2025-02-03,6,588.97,"Books, Clothing",Opened
+64e63032-bfde-46f9-b58c-123da0ffe400,2025-02-03,15,1776.93,"Toys, Electronics, Clothing",Opened
+d71db50f-4cda-4656-b0a0-e8462e9cfe2c,2025-02-01,12,765.8,"Sports, Books, Clothing",Opened
+98686a1c-1a34-4532-9425-95932e3b29da,2025-02-02,14,726.4,"Books, Furniture",Converted
+586bd78c-5b04-4140-882d-5fdf8366cdf5,2025-02-01,15,995.34,"Books, Health & Beauty",Converted
+9fff8502-33a5-4b44-a0d2-e3ca879b23e8,2025-02-01,2,1462.76,Groceries,Clicked
+ae84ee37-c330-4942-ab54-37eab20548c5,2025-02-03,18,259.6,"Sports, Groceries, Clothing",Opened
+52b60a5b-53d1-429d-8f29-11783bac58e2,2025-02-02,8,1742.9,"Electronics, Sports, Books",Opened
+041d79ef-50b4-4fd4-9f81-93b416498634,2025-02-03,20,1390.01,Electronics,Ignored
+9bdc98d9-8ab8-4963-a51d-589a490e0e4a,2025-02-02,20,1718.59,"Books, Health & Beauty, Furniture",Opened
+570ba9cd-23e3-4cdf-bff2-ac6be7f82064,2025-02-03,13,1215.79,"Health & Beauty, Toys, Sports",Ignored
+d5ee5268-d55f-4db2-8504-b3bd710b3120,2025-02-03,14,1866.26,Electronics,Opened
+a15ce4ba-8c3b-419b-bef8-842d0b2498fb,2025-02-01,5,1368.02,"Electronics, Groceries",Opened
+810bbb58-f5b6-4f2c-8158-e5bf6766070b,2025-02-02,19,517.23,Electronics,Converted
+367d700b-07f5-4986-9a2c-5edb73ae3a53,2025-02-02,11,103.94,"Health & Beauty, Clothing, Groceries",Ignored
+6f2aa148-de09-4a1f-a175-114443e4b4e4,2025-02-02,2,810.74,Sports,Ignored
+0f5a3843-0eb6-4b85-8fe3-ac5f1c820349,2025-02-02,1,1584.8,"Sports, Toys",Clicked
+c7a95118-a5f6-460b-8f19-4620218173af,2025-02-02,9,150.67,"Sports, Books",Clicked
+a1e504c8-fb85-4392-9287-9546e01a8836,2025-02-01,16,1072.22,"Groceries, Electronics",Converted
+cc7edf99-e615-4a64-9ce4-d72ad07089f5,2025-02-01,17,1924.98,"Groceries, Electronics",Opened
+74365fb8-86ff-4c76-b8ef-5f04754b685a,2025-02-03,4,1779.76,"Furniture, Electronics",Converted
+f423f85a-385d-4a57-b5bd-870a271258b3,2025-02-03,12,1116.99,"Clothing, Health & Beauty, Books",Converted
+90d573b4-c39e-42f6-bb8c-42659e2ebe06,2025-02-02,16,800.76,"Sports, Books",Ignored
+bf19b6a7-337b-4627-a90a-b1d6e7ea0da3,2025-02-03,8,1956.6,"Toys, Electronics, Clothing",Converted
+2e5c65d9-941a-41c5-bd1f-8be20da31e49,2025-02-02,4,447.28,"Electronics, Toys",Clicked
+b17ffde6-d4df-44b4-b50e-1e4fb58ab104,2025-02-01,2,1956.76,"Clothing, Sports, Furniture",Clicked
+a901fba8-6ab3-46bd-b2fc-c13ee6468796,2025-02-03,13,1069.59,"Groceries, Furniture, Books",Clicked
+c7274a79-9054-4914-a2c4-d794cbba3b1c,2025-02-01,19,1897.64,"Electronics, Health & Beauty, Clothing",Ignored
+69c030d7-5caf-41e4-a541-c71f989dc707,2025-02-03,15,1108.39,Toys,Clicked
+3cd91715-49e9-457d-abb6-7d26ea0935c2,2025-02-01,18,1871.86,"Health & Beauty, Groceries, Furniture",Ignored
+8ee7781f-7f12-4684-af9a-de8d759ba753,2025-02-02,13,973.74,"Books, Groceries, Toys",Opened
+d141c819-f140-4a9e-a99b-2b3bf320f366,2025-02-03,18,424.46,Books,Opened
+a1c16bb4-e833-4678-9fbd-8457345bad43,2025-02-03,4,1694.92,"Groceries, Books",Clicked
+82dbd329-55df-418e-9b8c-25fdac91e691,2025-02-03,13,1091.49,"Clothing, Sports, Books",Converted
+16d67e62-9c56-4ec7-a9a3-e6f4e00f2302,2025-02-01,19,64.0,"Toys, Groceries, Health & Beauty",Opened
+cae71bc8-d801-4684-88fd-ea904e9167ed,2025-02-02,2,1544.98,"Sports, Health & Beauty, Electronics",Ignored
+4fb9fccc-0088-49a0-b149-e616982beee5,2025-02-03,3,719.44,"Furniture, Health & Beauty",Ignored
+871bc137-2332-4352-b79f-3091e21903c2,2025-02-03,8,1598.26,"Groceries, Books, Electronics",Opened
+d2cc49a2-1bff-4f7b-a841-ce4e3c84f1e9,2025-02-02,3,1536.4,"Health & Beauty, Toys",Clicked
+a01a9b8e-631c-419a-a8ff-59547731a682,2025-02-01,17,1423.64,Sports,Converted
+a8ae22ff-f00c-4992-9f43-46e8257d844b,2025-02-03,13,1048.4,"Health & Beauty, Toys, Electronics",Ignored
+4c9f5157-919b-4f8f-9b80-8f9bb9a32910,2025-02-03,16,1484.24,"Sports, Groceries",Opened
+450bba18-c130-4f31-9c16-944a0432d479,2025-02-03,4,1675.19,"Books, Electronics, Health & Beauty",Clicked
+11ec71c1-7daf-498d-94e3-97b5fc06f714,2025-02-01,4,1313.7,"Health & Beauty, Books",Opened
+7a5b70a3-9cb5-4b3b-afc5-c32d4f5d271b,2025-02-03,14,708.95,"Health & Beauty, Books, Toys",Opened
+21a15b27-516f-4230-9614-3f5917532671,2025-02-03,1,1324.97,"Sports, Electronics, Groceries",Opened
+4bb14fe4-90c5-4583-91d7-e25ed9dd67bc,2025-02-02,9,1906.26,Toys,Clicked
+0b9af595-a73f-49d1-b2be-518217059a2c,2025-02-02,5,444.57,Furniture,Opened
+0b297fd0-55e4-4f72-9a95-729be98e864d,2025-02-01,15,1778.56,"Health & Beauty, Groceries",Converted
+577223ac-0edb-4509-8678-8ffb4c6b931b,2025-02-02,5,1347.58,"Clothing, Health & Beauty, Toys",Clicked
+fd6dce93-f8b9-4b62-b81e-c4e36673fdd1,2025-02-01,13,310.02,"Clothing, Furniture",Ignored
+cdcd4c5b-26d1-45cf-9533-c5369d94fc11,2025-02-01,16,1409.49,Books,Clicked
+ddebda70-e3af-43b8-8930-dc0e0634fc39,2025-02-03,7,1472.26,Sports,Ignored
+b3e7b704-bf97-40d0-b17f-103e83aa552f,2025-02-03,4,1713.37,"Electronics, Groceries, Clothing",Converted
+729251c8-39e3-4d1d-950a-4ac5f6ebe3b6,2025-02-03,8,1967.48,"Groceries, Furniture",Ignored
+43b73c49-de18-4e37-8f0f-78c06c0e3910,2025-02-01,8,1126.29,"Toys, Groceries, Furniture",Opened
+a82094d5-1cd5-4129-8f50-c7df7da7da4b,2025-02-02,1,1931.24,Sports,Clicked
+72c2c4e7-59bc-49d1-beb8-6aa86dd3d7c2,2025-02-01,18,174.08,"Groceries, Electronics, Clothing",Opened
+47b3d85f-000b-4a9b-a312-91adc6f285ad,2025-02-01,11,1235.48,Health & Beauty,Ignored
+aed68b8a-97b8-48b7-bc73-df488d5afc75,2025-02-02,11,383.45,"Books, Electronics, Health & Beauty",Ignored
+2654f614-4af0-4513-9bce-675062fef656,2025-02-01,18,679.48,"Health & Beauty, Furniture, Sports",Converted
+d0620316-546b-48f6-93d5-54a769f44392,2025-02-01,17,500.62,"Furniture, Groceries",Opened
+5e8d9060-40f7-4150-9692-f724beaca15c,2025-02-02,8,139.03,"Sports, Furniture",Converted
+568da497-d06d-4d12-9334-588237cf7c10,2025-02-01,20,1024.76,Furniture,Ignored
+558787fc-0e1a-4729-b8c8-256f0d7a8ce5,2025-02-03,19,722.34,"Groceries, Health & Beauty, Electronics",Opened
+6b2d23c4-3e89-42b9-80ae-5c6b41c44c25,2025-02-01,11,1855.9,"Electronics, Furniture",Opened
+af29ea1c-9204-4f01-9c5f-ff6720d1758c,2025-02-02,10,1719.02,"Electronics, Books",Converted
+c6ca728d-dca2-4fc5-ac5d-73070f20cf75,2025-02-03,13,77.8,"Groceries, Clothing, Toys",Clicked
+15cd2d71-ec23-45e8-98be-4d775313d944,2025-02-01,9,618.46,"Sports, Health & Beauty",Clicked
+8f4bd4e2-fe59-4fae-9665-0594f9674155,2025-02-03,5,755.02,"Clothing, Electronics, Sports",Clicked
+11c64d7a-9a21-47f4-9631-65e0706182be,2025-02-01,10,349.53,"Electronics, Books, Toys",Ignored
+444976f8-3a78-48d6-aea6-7e87fdc68905,2025-02-01,15,303.43,"Books, Clothing, Groceries",Opened
+a37a860a-94f6-4fbc-9f5d-70b525989851,2025-02-03,3,1573.09,"Clothing, Groceries, Electronics",Opened
+305fda5b-0c4f-4364-807a-c841b26787a0,2025-02-02,13,545.03,Clothing,Clicked
+599b3db5-f04a-42d3-bdd1-2214782444d9,2025-02-02,3,1538.26,Health & Beauty,Converted
+ff8921a5-4715-4966-a81a-684866972794,2025-02-03,2,1382.77,Books,Clicked
+9724e7bd-0af6-4e5e-953f-22dc9eca756e,2025-02-01,3,1047.11,"Groceries, Health & Beauty, Furniture",Opened
+0c7defce-39f2-4e59-bd19-e20b16ce1818,2025-02-01,16,1421.59,"Groceries, Sports, Furniture",Converted
+9f2b3f1a-c277-4537-bdd9-7e40b7c730c4,2025-02-01,14,123.99,Clothing,Ignored
+fc475e4a-79d0-4247-b9c0-b02c1b892b87,2025-02-02,19,312.34,Electronics,Ignored
+a99f937c-26c2-4153-b9c2-c8f6f7f13533,2025-02-03,3,102.76,"Health & Beauty, Groceries",Clicked
+09a30883-c06b-45a8-ae09-7a116b39a036,2025-02-03,15,596.95,Sports,Converted
+512b9dce-a5f1-428f-8f15-6afb855b08d6,2025-02-02,2,1812.15,Electronics,Converted
+bf8e725f-3bc0-451d-aa16-1140dc8319cb,2025-02-01,1,1240.27,"Books, Toys",Clicked
+3443f0ad-ec39-4f22-8129-72a6c1474ed2,2025-02-03,16,1303.18,Electronics,Opened
+fd83afa3-ebf8-46ca-9318-04c7ed573a36,2025-02-02,3,1477.9,"Furniture, Sports",Opened
+aab1694e-35ac-44e8-bf62-b262f8663a6c,2025-02-03,3,1538.39,"Books, Clothing, Furniture",Opened
+f972f7c1-2402-49f0-81be-d0f126dabdd2,2025-02-01,10,1125.28,Toys,Opened
+b7b90326-90c0-478d-8248-2952d058846e,2025-02-01,11,1559.88,"Sports, Furniture",Converted
+2f9ed3f7-0df6-49cd-bb43-6016ba1217e8,2025-02-02,20,651.97,"Books, Health & Beauty",Opened
+54d20116-66b9-4677-9a04-0c53f0bcb2f8,2025-02-02,18,1255.47,"Health & Beauty, Electronics, Groceries",Clicked
+dbdcfa4e-caa6-4e7d-a4b2-574a279ecc6f,2025-02-03,12,1234.57,Clothing,Ignored
+775fa1d5-bb11-4dc4-9269-0412df95be5a,2025-02-02,17,1542.56,"Groceries, Books, Electronics",Clicked
+28334c2a-9009-47f3-ae61-eb23bf18fb55,2025-02-01,6,390.55,"Groceries, Electronics, Books",Converted
+5600fcdb-a4b5-402b-98b2-4e3cbc2ccad8,2025-02-01,13,948.71,"Books, Groceries",Converted
+f28341ff-737b-4dae-afef-c6028cc2ffd7,2025-02-02,2,257.5,"Toys, Electronics",Converted
+cec5bc7d-bd90-4730-a39a-707832c383b4,2025-02-03,14,1359.49,"Electronics, Toys, Furniture",Converted
+e53a515a-c2a2-47ae-8dc5-e88ecb048219,2025-02-03,16,279.71,"Groceries, Books, Furniture",Clicked
+74dd5b84-0dc7-44fb-a1b9-47337873677a,2025-02-02,17,1612.54,"Toys, Health & Beauty, Sports",Converted
+b2196d4f-ef1d-4c1c-9377-ab9b27175fc3,2025-02-03,18,1791.06,"Clothing, Books",Opened
+734c4ca2-7c1a-45c0-a339-31671a9e355a,2025-02-01,6,1673.24,"Health & Beauty, Clothing",Converted
+6db8d8ee-0171-48fa-b7db-df3c469b9964,2025-02-02,5,1807.29,"Sports, Clothing, Electronics",Ignored
+f864b887-c127-4511-bce4-ecc77b741a11,2025-02-03,7,1686.24,Books,Ignored
+ec10e4f9-741d-4149-b764-87611439081f,2025-02-01,18,217.45,"Groceries, Sports, Books",Ignored
+7bf026d4-8c82-4df9-8c2c-b41afad1d93e,2025-02-02,1,1190.85,"Electronics, Books, Groceries",Converted
+f46ac717-b7fc-4fcc-a0be-b5c52b43dda6,2025-02-03,3,1923.66,"Clothing, Electronics",Converted
+ae2f699f-5ac4-4b9e-8679-e887fd9f3788,2025-02-02,16,1451.16,Toys,Clicked
+223fd740-802c-40b8-9b16-4ae2d4bc14a6,2025-02-02,8,539.77,"Health & Beauty, Electronics, Sports",Ignored
+24cb4690-493e-4e0f-9ebb-35527800a586,2025-02-02,11,1504.93,"Electronics, Toys, Clothing",Clicked
+19bacb19-73ac-4276-89bb-1eb0529f94bf,2025-02-03,9,1899.7,"Books, Health & Beauty, Groceries",Ignored
+f46f2bda-ade2-47ae-990d-19852d37d239,2025-02-02,4,677.3,"Groceries, Toys, Clothing",Ignored
+eddd983a-47f3-454b-b0bf-df2c8b05b20e,2025-02-01,1,1529.52,"Toys, Clothing",Ignored
+23785c28-5cbf-4888-99a1-ac5cd834dc47,2025-02-03,20,1618.2,Toys,Clicked
+b5f95633-2904-4291-8ef5-5af1d4a9aaca,2025-02-02,15,1413.27,"Sports, Books, Furniture",Clicked
+eafb9569-f45a-40a5-9fe6-e8c97c9cf1f6,2025-02-02,13,1368.01,"Books, Furniture, Health & Beauty",Clicked
+b097a976-4b4e-494b-8bc6-1fe679114a3e,2025-02-03,16,710.9,"Clothing, Electronics",Clicked
+0a753378-d296-4343-96ef-6c1be5eb5145,2025-02-03,6,1776.65,"Books, Furniture, Clothing",Converted
+7b8af054-e4bb-4431-b204-3c9bd0e34d99,2025-02-02,14,1578.4,Groceries,Opened
+f2bc1fa4-b619-4a1e-8ad9-a7e1fa5d3d70,2025-02-02,7,1085.84,Health & Beauty,Opened
+70144f3f-67ec-4ed1-a7d7-1280533260da,2025-02-01,14,412.21,"Health & Beauty, Books, Toys",Opened
+66f91c51-b921-4f46-8b8f-c04de72ffee6,2025-02-02,6,1628.35,"Books, Toys",Converted
+3e5f9059-e4a1-4d24-9bdc-8f21956408a6,2025-02-03,7,1264.01,Health & Beauty,Clicked
+8f1da24c-a89f-4d82-bb85-78b45fa3cc37,2025-02-01,7,1708.63,Furniture,Clicked
+daa59e87-ffe0-4db1-b7c2-f874d40649c9,2025-02-01,19,760.9,"Clothing, Toys, Sports",Ignored
+79f3ff3d-d51f-4abf-8161-bf7f8bd06a11,2025-02-03,1,605.16,"Groceries, Toys",Clicked
+194a400a-f997-41d1-89a3-15f1b15b08ba,2025-02-02,16,1478.89,"Sports, Books",Opened
+c0b17767-b67c-4d9e-8a04-413dd5e50b7a,2025-02-01,13,460.4,"Clothing, Groceries",Ignored
+e3104132-db28-4a2a-86dd-323bfe515198,2025-02-03,7,1557.9,"Sports, Clothing, Health & Beauty",Converted
+d3dee20b-c0a7-42ac-a24c-15eb9902f780,2025-02-01,6,929.31,"Sports, Clothing, Toys",Clicked
+8e3dfdaf-8d68-4e36-ab86-0b7dbcb411cd,2025-02-03,11,1195.35,Electronics,Converted
+2a6e10f5-f440-44af-83fe-29b7f5053b49,2025-02-03,19,1218.2,"Groceries, Clothing",Converted
+51f13f1d-250e-4ebd-8c9e-0b5f2dbf284f,2025-02-02,1,833.15,"Sports, Clothing, Electronics",Opened
+f1d079ed-e983-4fa8-841b-daa770e67787,2025-02-03,2,1541.41,Books,Clicked
+ec2bd267-4122-4c8f-b5ee-8e4814cc83ef,2025-02-03,8,631.63,"Clothing, Sports",Converted
+4e55c1ff-c7ca-4f24-873c-60729328b368,2025-02-03,2,770.44,"Groceries, Toys",Converted
+31b8c530-f52f-4e72-bd73-62bd4a02e9d8,2025-02-01,9,290.83,Books,Clicked
+5367fd8e-9814-4054-8ce6-a2c066e42e71,2025-02-01,13,343.97,"Clothing, Furniture, Electronics",Ignored
+9b66e18a-f63e-4500-b7e1-7956f6fce6f6,2025-02-02,20,1265.36,"Health & Beauty, Toys, Electronics",Converted
+8ca1d82b-ccd0-4b6e-a470-8efa9f67d53e,2025-02-03,4,454.65,"Furniture, Electronics",Opened
+a26f7617-82c2-4e81-9fe7-8b54eaf605e0,2025-02-02,6,666.32,"Clothing, Furniture, Groceries",Converted
+a6af090a-585d-4ad1-a409-101b097b2d82,2025-02-01,16,145.42,Furniture,Clicked
+07e8a7ea-a901-4985-937b-d8dffaf3a276,2025-02-03,7,1429.6,"Sports, Books",Converted
+6d69d5d0-8207-4728-9f79-318ccbe6af0e,2025-02-03,15,1643.87,"Health & Beauty, Electronics",Ignored
+d42daae4-a760-4f58-bf75-9c00b009489d,2025-02-02,17,1857.13,"Toys, Books",Converted
+4e02d04c-e2cf-4bcd-89de-11d0f0dbe4fa,2025-02-02,14,598.35,"Clothing, Books, Electronics",Ignored
+1a3dab22-9be4-440e-82dc-f8f958a04a72,2025-02-03,8,182.13,"Health & Beauty, Sports, Electronics",Clicked
+00af2b35-1837-4dcb-8199-f6d862deef65,2025-02-02,18,628.66,"Groceries, Toys, Furniture",Converted
+47302df3-ed20-4062-ba25-6fae7ad43f24,2025-02-03,17,1709.51,"Electronics, Books",Clicked
+c4bcd4a6-3c52-46c6-8378-1aca457f32be,2025-02-02,1,961.1,"Books, Toys",Ignored
+de1fadf0-f8db-4055-b194-5b276e82e0cd,2025-02-01,10,1163.22,"Clothing, Groceries, Toys",Clicked
+9f5a0ccd-8a25-4db2-abb1-71125baa770b,2025-02-02,15,1331.69,"Groceries, Books, Electronics",Converted
+08c9e2d5-ba4f-47ee-b45e-e848e0291690,2025-02-01,4,527.03,"Furniture, Health & Beauty, Sports",Opened
+a8e28965-6ba6-4a7a-bf4d-8aeca2f17813,2025-02-03,5,187.85,"Clothing, Electronics, Toys",Converted
+02605edc-f73d-4aed-b951-de1a055ebf7b,2025-02-01,2,554.79,"Health & Beauty, Books",Opened
+01221e69-04cb-4833-9bfb-eabe8a63374a,2025-02-02,18,1406.64,"Sports, Furniture, Clothing",Clicked
+8554038e-f67e-44bd-9d3a-05e58361f47f,2025-02-03,14,1835.4,"Furniture, Clothing, Sports",Opened
+1648f57c-f2bb-49a0-bf08-493363ac1754,2025-02-02,4,1484.24,"Sports, Furniture",Ignored
+0ad01779-8660-421c-9eb0-925c75654d15,2025-02-02,8,848.72,Groceries,Clicked
+58a1ed21-dbbc-49ff-9b41-0f2c146664fd,2025-02-02,17,1845.64,"Sports, Groceries, Toys",Clicked
+407fde6b-0537-41d1-900c-85dee8915eb3,2025-02-02,8,53.72,"Books, Clothing, Electronics",Opened
+75b0308a-3595-4389-9877-0affdf4d2b43,2025-02-02,12,1011.6,"Electronics, Sports, Groceries",Opened
+895d9010-d0bc-40a3-a669-198cf4cfa3b4,2025-02-02,5,1721.77,"Groceries, Clothing",Clicked
+f0da75c9-816b-4c4b-ad13-68f9fc5a84c5,2025-02-01,18,1654.95,"Groceries, Books",Ignored
+88ccd2b6-96d4-4e32-8c45-064987b01616,2025-02-03,7,243.58,"Electronics, Furniture, Toys",Converted
+d06a30d6-ed89-43a9-8ad2-fdebc48cdfc7,2025-02-01,19,1325.82,"Toys, Health & Beauty, Groceries",Converted
+67cc59aa-ca77-4425-a711-3f9b1af454d1,2025-02-02,16,1590.05,"Groceries, Health & Beauty, Electronics",Opened
+3c5b9a74-c3d0-4529-9445-e662b712a4b5,2025-02-02,19,1899.93,Electronics,Converted
+7b1a4167-c856-49af-bec3-bb513157322e,2025-02-03,12,1109.0,Toys,Clicked
+dc8b538e-5420-4368-ae84-9989371a9929,2025-02-01,4,354.56,"Furniture, Health & Beauty, Electronics",Clicked
+6a19ec7d-4d3c-4569-943c-38bc40c4cb20,2025-02-02,17,79.7,"Electronics, Health & Beauty, Toys",Ignored
+ff8b6fda-7096-499e-86ab-b9a2a4820ab9,2025-02-01,13,977.38,"Books, Clothing",Ignored
+da6b008d-2c83-4e12-8b6f-a66343d633ce,2025-02-01,14,1262.26,Books,Clicked
+963a1e99-1ef9-4155-a069-01bc666ad4c2,2025-02-03,1,209.86,"Toys, Health & Beauty, Furniture",Clicked
+65a1845c-203e-4380-b180-3e0cc450d5b3,2025-02-01,5,1130.03,"Health & Beauty, Electronics, Toys",Converted
+a3433928-40d9-486d-b401-66ef54ef0df4,2025-02-01,15,1109.82,"Sports, Toys",Ignored
+e8949925-0822-4e2e-8eb5-bd4f546302a1,2025-02-03,1,1178.8,Furniture,Clicked
+b14d52e2-2214-44a5-9e11-0adeb6199c18,2025-02-01,5,560.76,"Sports, Toys",Ignored
+6b6eacd6-c86e-43f8-8128-5b80e5aa2161,2025-02-02,6,274.0,Electronics,Clicked
+280c20e5-c113-4485-a5da-fa902be3f551,2025-02-01,14,918.11,"Electronics, Toys, Groceries",Opened
+be54910e-f577-45ae-bc4e-2d0ed4afe98d,2025-02-02,12,592.19,Furniture,Ignored
+42c1eb64-3fc6-4d41-879e-b0ffec0afa59,2025-02-01,11,1313.66,"Health & Beauty, Sports, Electronics",Converted
+96035d38-420d-4d44-b730-7a1eb1d2104f,2025-02-03,12,861.83,"Groceries, Clothing, Books",Opened
+2346c5c2-5e29-4c2e-a724-c8e2e7f8220b,2025-02-03,2,730.2,"Furniture, Health & Beauty, Clothing",Ignored
+eb91a62a-86d2-4874-98f5-cb5aa013b264,2025-02-02,4,1578.22,Sports,Opened
+61dee802-bb96-4db6-8494-5652a3b98493,2025-02-02,13,1108.41,Furniture,Opened
+733dd97b-279c-4d24-a5e1-440be95daf79,2025-02-02,14,1309.64,"Toys, Sports, Clothing",Opened
+a59476a0-9fba-47a5-99d4-ae9ead32050e,2025-02-03,18,1871.92,Electronics,Ignored
+81f9d68e-a077-41b4-8738-931b68a3d481,2025-02-02,8,1815.1,"Toys, Books",Clicked
+cfee117a-3be4-467c-a100-bc6d5a932865,2025-02-01,11,1168.75,"Health & Beauty, Electronics, Toys",Ignored
+199e05cb-a8c0-4276-9ebc-adc8895d1201,2025-02-03,11,952.9,Health & Beauty,Ignored
+4ef4a443-ed4d-4436-a59d-18bc78bd7c04,2025-02-03,18,1574.31,"Sports, Books, Toys",Ignored
+f97f51aa-4846-4ddb-9d07-b15241d478bd,2025-02-01,3,1709.86,"Sports, Electronics, Books",Ignored
+adc9d72c-0ccc-4a76-9939-6e98837a5d37,2025-02-03,13,1996.55,"Toys, Clothing, Furniture",Clicked
+9cbc65e8-3ab2-4136-9c9c-aa14e3e779f8,2025-02-02,3,901.93,"Clothing, Groceries",Converted
+fa565481-d27e-43a9-8b56-813e687c4d07,2025-02-02,7,418.55,"Furniture, Health & Beauty",Converted
+f84cd718-7420-42d9-ad9c-fb8967a57fe3,2025-02-01,4,1749.04,Clothing,Ignored
+97a18c97-bfec-4a73-b404-0b917b4d8f6b,2025-02-01,16,1391.74,"Books, Sports",Converted
+37395d8b-c6bf-4548-ab2f-87efe0ffa036,2025-02-02,14,1998.35,"Furniture, Electronics, Toys",Clicked
+093a0ad4-a8d6-47be-a50b-37e4572fe468,2025-02-03,16,1677.52,"Books, Health & Beauty, Furniture",Opened
+63d7b5d5-84db-481e-ad1a-363b20089aa8,2025-02-01,10,1111.62,"Clothing, Health & Beauty",Opened
+e8369118-8434-4b5d-ac1b-2b747e3945fc,2025-02-03,13,721.05,Toys,Clicked
+20445415-5d59-4390-8b54-7b5151f88119,2025-02-01,1,1678.64,"Electronics, Furniture, Toys",Converted
+58a1acd7-c3e7-4ee5-81b2-e3e2e6012431,2025-02-02,4,1996.99,"Health & Beauty, Furniture",Converted
+c435abf2-95f0-4581-9f85-3e74d241a4ec,2025-02-01,13,909.13,Sports,Clicked
+51714420-c8f9-4324-ba3e-7fb1a36cf275,2025-02-03,5,712.22,Books,Clicked
+813c8b17-d559-4e7e-b522-4e681eee72bf,2025-02-02,12,1264.87,"Clothing, Sports",Converted
+90637fe2-e6e4-4bda-8027-28c56abbacf9,2025-02-03,1,1865.89,"Health & Beauty, Toys, Sports",Converted
+13e3de19-8899-432a-80c6-ecf952078d27,2025-02-02,10,1206.03,Health & Beauty,Opened
+ef6ae463-1e79-43b2-8afe-c161151657cc,2025-02-03,20,1645.29,Books,Clicked
+9f126ca8-526a-4b82-b811-c6efceea9977,2025-02-02,5,1908.93,Health & Beauty,Clicked
+e4d96646-10b8-4b33-ba5f-f262b5ec5158,2025-02-01,20,202.88,"Electronics, Sports",Opened
+a4a6ffcd-a7f2-4fa6-a174-c74ba6c8340d,2025-02-02,20,1938.5,"Books, Furniture, Sports",Opened
+7402eabd-3e5b-4476-846b-ea28dc760dc5,2025-02-02,18,184.13,"Furniture, Health & Beauty",Opened
+0b46e2ba-1bae-4e90-845c-e2769c9f222a,2025-02-02,5,1313.47,Furniture,Converted
+67ae00a5-3c4d-4fcb-9f95-956766e4fa80,2025-02-03,16,1609.73,"Health & Beauty, Toys",Opened
+0734fff3-abb1-4c07-8dd5-584492080340,2025-02-01,11,342.98,"Clothing, Furniture, Groceries",Ignored
+08f69c40-a5d5-4468-ad10-44df78b2f899,2025-02-02,12,662.64,"Toys, Furniture, Health & Beauty",Converted
+9aa97ecd-fa34-49b9-abd3-226ffa2fc930,2025-02-03,20,1307.65,"Health & Beauty, Toys, Furniture",Clicked
+a32dcdb0-127b-4d61-ac0d-fbaac6d3b334,2025-02-01,13,1452.69,"Clothing, Electronics",Ignored
+d98a19a4-5b2b-4d52-b2a3-adea1a9bf776,2025-02-02,11,205.33,Books,Clicked
+409e0597-bdc2-4698-aa14-de1b8466e1ab,2025-02-02,10,1099.34,"Books, Health & Beauty, Groceries",Clicked
+c72b6dd0-d99b-4073-9e50-851b2fb3e206,2025-02-01,10,515.81,"Books, Toys",Converted
+cf9c66a1-4847-4668-a119-f1909385ccfd,2025-02-02,13,972.11,Health & Beauty,Converted
+1d2000f1-796b-4ef3-84a5-e3b6d80a66c2,2025-02-03,16,1104.21,Furniture,Ignored
+9ce50258-851e-40fc-b453-e458624dbde6,2025-02-02,6,1416.6,"Toys, Clothing, Furniture",Clicked
+cb4cd33e-4d9a-4eb8-9326-7e66541e43f0,2025-02-03,4,863.77,Clothing,Opened
+bb52202e-7a20-4c0c-8212-4293db50e9da,2025-02-03,15,1832.66,"Furniture, Toys",Opened
+09d681f1-c530-4a3e-8c20-122a19dcbfd2,2025-02-03,6,1998.03,"Furniture, Electronics",Converted
+c700f12a-d2a5-43b7-a06c-5c820cc959f3,2025-02-02,19,1301.59,Health & Beauty,Converted
+49804569-06d1-4c24-9a22-8b98ec7a7281,2025-02-02,4,1244.08,Electronics,Clicked
+502a32ed-ca46-48e3-82ea-b1bf8689c0e3,2025-02-03,20,839.73,Books,Converted
+90858fb8-8e53-4028-9604-846bf3c34905,2025-02-02,20,464.27,"Groceries, Clothing",Converted
+28138d44-8f3c-4fa5-ad8c-9457637ec988,2025-02-01,10,186.68,Sports,Ignored
+5a4afc3f-17f7-4eaf-80b7-684ade754ff4,2025-02-03,20,150.4,Health & Beauty,Ignored
+d01c29ee-195d-4b9f-bb93-1a73067143a8,2025-02-02,5,983.25,Toys,Clicked
+aaa53d17-9244-4c6d-967a-a24f5479454f,2025-02-02,6,929.62,"Clothing, Furniture",Ignored
+1f01bfd5-7c71-4443-8500-63667e0351ff,2025-02-03,3,1589.41,"Health & Beauty, Furniture, Groceries",Ignored
+d9f7c51e-6561-498e-833e-9b0dc4113120,2025-02-01,8,706.82,Health & Beauty,Clicked
+21bb0b5d-b9f3-4195-9699-9054a7b04c00,2025-02-01,15,1443.74,"Books, Sports",Ignored
+3f349884-3a70-46fe-a1dd-0c24aa5f9da3,2025-02-03,2,778.39,"Health & Beauty, Electronics, Books",Ignored
+7eff5fea-6d6a-4587-bc46-eb2cbfda3d8d,2025-02-03,15,1603.85,"Books, Electronics",Ignored
+c414ebb4-266a-440c-8b93-52d75d149d07,2025-02-01,9,77.07,"Clothing, Electronics",Clicked
+03059d7e-6c4b-462f-bad7-b702c6574ad8,2025-02-03,16,1880.8,"Groceries, Books, Clothing",Clicked
+269e759b-7f3f-4f98-a109-257bbd529362,2025-02-02,17,337.82,"Sports, Furniture",Converted
+790e5842-da94-454f-a616-094c7c35df0d,2025-02-01,8,547.19,Furniture,Opened
+5de92d43-b2a4-4409-aa38-c320ba4ef952,2025-02-03,2,843.82,"Groceries, Books",Clicked
+4ce3bb9d-f103-4175-a3f2-ef446191a15a,2025-02-02,12,119.4,"Toys, Health & Beauty, Furniture",Converted
+92e72314-70d8-4424-83ea-94a23931af40,2025-02-02,18,843.8,Clothing,Opened
+350b4235-d4ce-4fec-bb95-b08eebc6435e,2025-02-01,1,1014.73,Electronics,Converted
+28a574a7-aa24-46b2-81ea-1fd20b69b86b,2025-02-02,11,778.87,Toys,Clicked
+bc5d00b0-e30d-4a38-88b3-e5af777dc57b,2025-02-02,2,619.03,"Clothing, Sports",Ignored
+bd94f339-e289-4b16-b3c3-54d7ba90c9df,2025-02-02,16,1679.58,"Books, Groceries",Converted
+f06ea769-afe8-4030-a515-b4bd092698c1,2025-02-02,16,291.97,Health & Beauty,Opened
+fea40e67-e0c4-46f4-bcb1-237fea471a81,2025-02-02,20,1607.67,"Clothing, Health & Beauty",Opened
+0d3671ce-851a-4b3f-9981-d0209ea7984d,2025-02-03,13,1925.51,Furniture,Ignored
+8c2761be-b403-499d-aa33-f10f7b190932,2025-02-02,11,822.42,"Books, Health & Beauty, Furniture",Ignored
+8d633627-84e1-40ad-b064-216fe7de7e01,2025-02-03,18,330.04,Electronics,Clicked
+40b2fbbe-53a9-450e-97e5-fd70d3e59955,2025-02-03,10,480.71,"Books, Toys",Opened
+75cfe631-4195-4285-b88a-9e43685308aa,2025-02-03,1,735.34,Toys,Converted
+79111090-3d72-43a2-906e-a61fc125ab53,2025-02-01,18,139.87,"Electronics, Health & Beauty, Sports",Clicked
+3a8df939-d7f9-414f-94f3-ca4278a1c8c6,2025-02-01,1,1229.91,Health & Beauty,Clicked
+cf2f0ab0-0dfe-4a29-8e52-b3ff4f7622f3,2025-02-03,5,490.94,"Toys, Clothing, Books",Clicked
+72e67f64-8e97-4b00-ba71-89e6a35bfd2d,2025-02-01,11,1952.64,Furniture,Opened
+6a6fbf50-25c4-42a6-ab2b-c7134d254448,2025-02-03,15,1852.23,"Toys, Furniture",Clicked
+7dba592f-b6f1-4c35-bdd9-1b84584417be,2025-02-01,2,402.0,"Toys, Clothing",Opened
+64d83451-d809-4d65-8dc8-fe0fbbce6713,2025-02-01,12,589.34,"Health & Beauty, Groceries, Electronics",Opened
+eb9afeb1-c592-48b1-bf31-17d3f558bd51,2025-02-01,15,1277.86,Toys,Opened
+9c3685dd-6e60-40da-a3d8-d965d4938bd1,2025-02-03,11,1156.72,"Groceries, Furniture",Converted
+f705f6a9-b3ae-496a-8667-920737fb5bdd,2025-02-01,18,706.61,"Furniture, Electronics, Groceries",Opened
+26fd1691-2f6f-442e-b1ec-d89b5446e75d,2025-02-03,1,922.9,"Toys, Electronics",Converted
+a1cbb19b-f241-4ca8-ab76-b450a8ca007f,2025-02-01,9,1554.75,"Electronics, Clothing",Opened
+56eda53d-7ee2-47cc-bca5-586f47c976ec,2025-02-02,1,1775.53,"Health & Beauty, Sports",Converted
+a70cd9be-896f-41ad-ab75-e425c6f17c3f,2025-02-02,8,1282.13,Electronics,Clicked
+6ea04319-9efd-47bc-a7a3-2387b89526a4,2025-02-02,2,997.39,"Toys, Clothing, Furniture",Ignored
+b551e6e5-3158-405f-b4d6-e877b4605673,2025-02-02,7,770.7,"Sports, Toys",Clicked
+8145d006-aa17-472d-9fcc-b93c0415549b,2025-02-03,10,632.53,"Health & Beauty, Sports",Converted
+d826c6eb-8179-4b26-9160-f54d3741a838,2025-02-03,19,1278.09,Clothing,Clicked
+e70539b8-d454-448f-ab3b-43e2d61c39e2,2025-02-01,5,1837.7,Books,Clicked
+c551f2b3-44e2-4591-b5d7-8e0c90aad169,2025-02-01,8,1714.82,Books,Converted
+8cd65071-d976-4d6c-9b2f-4187be9bb064,2025-02-01,8,184.51,"Groceries, Sports, Clothing",Opened
+26bef2c5-c79d-4f40-91cc-0217210e8690,2025-02-03,8,1629.92,"Books, Toys",Clicked
+4be94b9f-0b90-449e-966f-50b4c1f77021,2025-02-03,13,522.16,Sports,Opened
+a7b07680-f973-44ae-a8b5-63e7603200b6,2025-02-03,4,1746.92,"Electronics, Sports",Converted
+ca25560c-4b8d-4357-86f9-d9a7468ae442,2025-02-01,3,246.46,Books,Clicked
+6930bc0e-a21b-4d80-a574-8130ca91f990,2025-02-01,13,713.6,"Clothing, Books, Groceries",Ignored
+75b0116b-d340-4321-8b3a-30b6ac813d58,2025-02-03,17,1855.71,Electronics,Ignored
+f0dd7ff7-3cd1-4743-94f1-7b3106f87ac9,2025-02-01,8,573.69,"Electronics, Groceries, Furniture",Clicked
+3f331b32-c73e-40a6-a278-050cf364614b,2025-02-03,9,1926.72,"Health & Beauty, Furniture",Opened
+7ca5bcd4-8d17-4998-a9a5-10b2a92b56fb,2025-02-02,20,1923.82,"Sports, Furniture, Health & Beauty",Ignored
+4c1fb794-dd98-41a9-b03f-d51afee248af,2025-02-03,14,796.99,Groceries,Ignored
+bbb47c7a-7208-4c1b-8562-ef3e08bdfb62,2025-02-03,6,1218.62,"Books, Electronics",Clicked
+b2d65f8e-6e5c-4d21-8165-aa084b287ab3,2025-02-02,14,901.85,"Toys, Sports",Opened
+26b22017-dffe-4135-9ee3-40c372a74cf6,2025-02-03,13,532.28,Clothing,Clicked
+bacc6103-4ace-4d9b-b328-65f4a1169f35,2025-02-01,9,1634.31,Groceries,Clicked
+0c9d2e44-484c-4113-b8eb-a41436cef4e8,2025-02-03,19,1915.63,"Health & Beauty, Toys",Ignored
+327bbdbe-8ab2-4384-beff-b477c405fb08,2025-02-03,18,448.46,"Toys, Electronics, Furniture",Ignored
+4462600f-655c-49ba-895f-d81c17793c54,2025-02-02,7,721.34,"Clothing, Furniture",Ignored
+694fd64b-f836-407a-94f5-928e3c5ea74a,2025-02-03,12,1132.64,Clothing,Clicked
+2a2d217b-8d39-44de-bb94-8106c10f2341,2025-02-03,8,1436.21,"Books, Sports",Clicked
+e1f93478-66f4-41ca-a847-3da6684a3ec7,2025-02-01,4,1196.58,Groceries,Converted
+a69ecd67-1d49-4df0-bf51-f5b509d8670d,2025-02-03,12,1311.58,Furniture,Converted
+6b76a6e3-d36d-4d3b-8362-a0bc2080af22,2025-02-02,15,1810.43,"Health & Beauty, Clothing",Opened
+fdbd9916-e9d1-4cf8-8f78-0452b0a78e08,2025-02-03,17,293.02,"Sports, Clothing",Converted
+25bf6f62-eb99-4911-b4fe-82cc9ddaa1f5,2025-02-02,19,1127.63,Books,Opened
+c6e6dd03-f53e-49d2-bf19-727281f0bcda,2025-02-03,2,1685.58,"Sports, Health & Beauty, Books",Opened
+3fe1d2bd-ce07-4e53-88bd-528eccce722b,2025-02-03,15,919.5,"Clothing, Books, Health & Beauty",Converted
+e26a7b7d-f785-437f-9fca-887d9de071e8,2025-02-01,18,579.79,"Electronics, Health & Beauty, Sports",Clicked
+d122b5c9-613f-4297-9805-3983f496f506,2025-02-03,12,1306.7,"Electronics, Groceries",Ignored
+e8192246-bcf9-46a0-9dc6-960d24b4fabf,2025-02-02,9,1181.39,"Toys, Clothing",Converted
+89985047-8dc2-4713-a06c-ddfbfaac087d,2025-02-01,10,1174.09,"Clothing, Toys, Furniture",Clicked
+6f959562-af4c-4f9a-a145-7256dcd554ab,2025-02-02,18,187.35,Clothing,Converted
+e65c50cf-7ecb-4233-bfb8-266b26dd88f5,2025-02-01,2,464.52,"Electronics, Health & Beauty, Toys",Clicked
+fefaf434-3672-45b1-85e2-632ea76cd0f6,2025-02-03,15,1589.08,Clothing,Ignored
+393f5fe4-cac0-4b18-b98c-58479909a971,2025-02-03,7,1827.5,"Books, Toys",Opened
+15f7c77f-0354-438f-af1a-6a701cd80519,2025-02-03,12,451.92,"Clothing, Health & Beauty",Converted
+32a15f1c-8640-46d2-bcce-444dddfe6c58,2025-02-03,12,1081.98,Sports,Converted
+aed0f354-10cd-414a-8ce2-af28761c0fe7,2025-02-01,5,1425.8,"Furniture, Clothing, Health & Beauty",Opened
+a6a5c7f5-8f9d-4856-9557-8e99782140b4,2025-02-01,17,755.95,"Clothing, Furniture, Electronics",Clicked
+fb6d7e7c-023d-438b-9b87-b42ab3c1261c,2025-02-01,16,1631.21,Toys,Ignored
+59b6e4b0-2d93-45d7-8720-9407cc1c62b9,2025-02-03,4,1186.59,Toys,Clicked
+fb3a501d-c6e3-49e3-a819-4e7388d4c5bb,2025-02-03,11,1201.64,"Electronics, Health & Beauty",Ignored
+7bf3a815-d832-477a-9fb2-48c211f64ce9,2025-02-02,16,870.2,"Furniture, Health & Beauty, Books",Converted
+7717165a-b05d-4161-9fd9-13cf9b6266a1,2025-02-02,14,1125.17,"Health & Beauty, Groceries, Toys",Opened
+e4a43598-ee86-41c5-886b-4c275c83bd79,2025-02-02,5,1919.16,Groceries,Opened
+5d360f23-5bb1-46bd-a42d-40c19521e9c3,2025-02-01,13,554.29,Books,Opened
+b902baa3-30e7-4703-85c1-a31ab48ebd7f,2025-02-01,4,127.42,Toys,Opened
+99389c42-e632-4152-a3b8-d44fde6ea42b,2025-02-02,13,531.86,"Clothing, Health & Beauty, Furniture",Opened
+818ff865-b3a3-47e7-963a-be1c52380114,2025-02-03,1,499.2,"Toys, Clothing, Sports",Opened
+5740a66c-06d6-49d2-9473-71987bf8553e,2025-02-01,19,1595.26,Books,Opened
+bb70695f-1dfe-48bb-b246-e1483392576b,2025-02-01,9,845.67,"Toys, Health & Beauty",Opened
+f036f403-497a-4551-8460-12d9bbb09815,2025-02-02,2,1312.86,"Health & Beauty, Electronics, Furniture",Opened
+39612b0c-dbbe-499d-bf8f-5cbb33782df1,2025-02-01,18,831.34,"Books, Furniture, Health & Beauty",Clicked
+9ab50e7e-5eca-476d-8d5b-de592a7e53f4,2025-02-02,9,1074.42,"Furniture, Toys",Ignored
+0b822436-1f24-4864-9053-72bde2df74be,2025-02-01,1,68.34,Books,Clicked
+33611985-b89e-4583-8681-70f4fc93dcad,2025-02-03,12,1941.78,Health & Beauty,Clicked
+af0f0905-a494-41f8-9ea2-d501f9387cc1,2025-02-03,12,443.34,"Health & Beauty, Electronics, Books",Converted
+3be074c2-528c-4cf3-b37a-08b2fbe266c8,2025-02-02,8,1621.97,"Furniture, Sports, Electronics",Opened
+62e1fe92-544f-4503-81f1-512258dfa473,2025-02-01,8,885.87,"Health & Beauty, Electronics",Ignored
+ad912022-cb2d-45f6-8e6a-b295f6757877,2025-02-03,8,744.13,Groceries,Converted
+448dbcb8-76c6-4299-b5ff-28a85e4c6516,2025-02-02,1,1886.0,Electronics,Opened
+57c41454-fb02-41f3-9901-3dea75a91a75,2025-02-01,1,1444.73,Books,Converted
+5dfcd7ed-acac-4c57-9f5c-11cb01b3b2fe,2025-02-01,14,1588.88,"Clothing, Toys",Converted
+ba5f6ef6-8a70-4636-8745-5af8949623a1,2025-02-02,13,182.89,"Groceries, Clothing, Furniture",Opened
+d4debc07-f4dc-4edf-8655-d8f6e70fc78b,2025-02-03,1,1352.2,Clothing,Ignored
+df2c7a1d-1098-42ab-95a7-b9d92344e000,2025-02-01,1,878.17,"Toys, Sports",Clicked
+7269819a-0ba9-473a-ad4a-c788fd975177,2025-02-02,19,127.43,"Sports, Toys, Health & Beauty",Converted
+460be429-a04b-4604-96e4-82b08062387f,2025-02-02,1,1267.65,Toys,Opened
+c925256b-79df-4a01-9b2f-4a0ad2f60b81,2025-02-02,16,1994.76,"Sports, Electronics",Converted
+e2c3bdf3-ba0d-460d-96d9-1dc308ee7018,2025-02-01,15,1857.5,Clothing,Opened
+0e6d661a-2a21-47c5-a3bb-813f2ce737eb,2025-02-03,13,908.97,"Health & Beauty, Groceries",Ignored
+01b7923f-d700-4358-bf5c-5c20c797546f,2025-02-03,11,1741.88,Electronics,Opened
+cbd5474c-ac72-4568-a3ea-61db1942db11,2025-02-03,8,1997.85,Books,Opened
+a84954b5-f4bd-4556-a6fc-424a91a29a2b,2025-02-02,12,1166.22,Furniture,Ignored
+bd5c69af-2d98-4615-9424-d096461ed064,2025-02-02,20,1565.48,Groceries,Opened
+f3dc5634-dc95-41d6-a11f-3883c2631789,2025-02-01,7,1295.89,"Furniture, Electronics",Clicked
+04a099ae-5bc7-46ca-a043-723299e2c52e,2025-02-02,1,926.2,"Electronics, Toys",Opened
+29b7653f-3fbc-4e71-8d2c-d0637a1b3eb1,2025-02-03,7,413.61,"Electronics, Books, Furniture",Clicked
+d00e6717-ee02-4573-95d2-fde59a2611af,2025-02-03,12,719.73,"Books, Health & Beauty",Clicked
+0dc4f20d-7251-4bc6-80f0-c91b90e9836f,2025-02-03,17,1331.86,Sports,Clicked
+c4998656-3c1d-4575-898e-441b57ee129d,2025-02-01,10,1061.04,"Electronics, Groceries",Opened
+057769cb-ce73-4f7c-beaf-b21e51a4436b,2025-02-03,7,770.63,Electronics,Opened
+bbe834fd-2b3b-4736-83fc-5e2018838419,2025-02-02,1,1698.18,"Clothing, Health & Beauty, Groceries",Ignored
+0b3d47f7-c323-4587-94dc-b15f0047ece2,2025-02-01,4,1628.12,Books,Clicked
+2887fed4-9ab5-4024-9816-d38920c00f11,2025-02-03,13,219.16,Books,Opened
+ac83050c-54ad-4523-b375-9752233e4651,2025-02-01,1,894.6,"Toys, Groceries, Furniture",Clicked
+c42a7dad-87ce-4988-8dbb-c94aa6ebcadd,2025-02-03,14,156.94,Toys,Ignored
+ac6a1461-2611-4bdf-a381-b0dc28b81cde,2025-02-01,3,1820.82,Groceries,Ignored
+6dfa6c2d-d610-456b-a373-ff33dfd285c8,2025-02-03,5,1295.49,Books,Clicked
+97e1f178-2ef4-459a-95ad-f7a992f08184,2025-02-01,3,245.25,"Groceries, Clothing",Clicked
+1bafc10a-c4c9-4e5c-82f1-a3bd05dbac99,2025-02-01,9,248.95,Books,Opened
+6fcb822a-490a-4833-b713-41f8f09470e5,2025-02-02,3,693.06,"Electronics, Health & Beauty",Clicked
+cd06de8b-2892-4cd3-8b6e-30570d7c8cb6,2025-02-01,2,1495.43,"Furniture, Clothing",Ignored
+b3efa82b-4d4e-4ef3-94e1-341cc767e4c2,2025-02-03,7,1683.66,"Clothing, Groceries",Converted
+02c476bb-0b32-461d-97ac-2f8cd954b68c,2025-02-03,2,562.61,Clothing,Opened
+fe5a2992-c587-4fef-9407-8404614a4238,2025-02-03,14,780.64,"Toys, Sports, Books",Opened
+0576abfb-00ce-4fda-a0a1-690202fab3c3,2025-02-01,10,811.7,Clothing,Converted
+5beffff5-50a5-4f58-b27f-9fd9b841912a,2025-02-03,13,225.58,"Clothing, Groceries, Toys",Opened
+a3e6436d-0a7c-4a55-b0d0-7bdda8fda31f,2025-02-03,11,1069.75,"Toys, Sports, Electronics",Ignored
+9473022b-7c72-4721-8d2b-97747a0dfa41,2025-02-01,15,359.28,Sports,Converted
+ca07122e-d83b-4b77-9e05-2e2995f97dc5,2025-02-02,16,686.2,"Electronics, Groceries",Converted
+439390b8-ed13-4e9d-aed2-0ea245d86f95,2025-02-03,7,1238.76,"Electronics, Health & Beauty",Opened
+bd93b8cb-95df-4572-acb2-1c8977ccf44f,2025-02-03,7,1105.59,Toys,Clicked
+0b4bee4a-bd42-4ffc-81f6-71adddf82e32,2025-02-01,5,1049.1,"Health & Beauty, Toys, Furniture",Clicked
+54eff691-a90c-4aa8-b92b-e70bfc44296d,2025-02-03,10,1130.43,"Toys, Books",Opened
+39a74707-d831-43db-a571-2c9013947497,2025-02-02,4,1822.52,"Health & Beauty, Furniture",Opened
+e4a100a4-794d-49ca-b55b-869dd4d982a0,2025-02-01,12,888.87,"Toys, Books, Health & Beauty",Ignored
+58fd7209-f797-4b59-a9c5-2e4fafe9c7ea,2025-02-02,5,759.12,"Sports, Electronics, Clothing",Opened
+5cf6335d-a246-4e12-9e5d-3249fe768349,2025-02-01,6,214.71,Books,Opened
+f1252bfe-b547-4ca2-bafc-9324a242fb58,2025-02-01,10,66.38,"Health & Beauty, Sports",Converted
+dcf53cb3-b456-4f6f-9541-89d5a3fb74e3,2025-02-02,19,416.91,"Groceries, Electronics, Furniture",Opened
+74402ac9-ef0f-4484-8b35-0e06f210347e,2025-02-03,20,53.99,Books,Opened
+63101e56-47af-45a5-9828-16c41af95421,2025-02-03,20,1232.35,Electronics,Opened
+9c7965ac-3d8b-491f-a33e-7b5b163459ad,2025-02-03,11,520.01,"Toys, Furniture, Electronics",Converted
+fa7663a5-7b63-40d7-ae4a-090e02f3f354,2025-02-03,8,168.86,Sports,Converted
+344b5122-3518-4e9f-9d94-6af7c8669f82,2025-02-02,14,377.86,Furniture,Ignored
+2d7a0f2f-e3a1-4ea1-8069-1832b9c9f2c2,2025-02-02,14,429.18,Health & Beauty,Converted
+fb2d1248-d8ec-4a13-9d76-0beacc452d4b,2025-02-02,11,1019.74,"Clothing, Health & Beauty, Furniture",Converted
+f0399ae6-114e-4db2-b6c0-0056d0d2de1a,2025-02-02,6,569.17,"Books, Sports",Converted
+7dac0dce-a763-4f3f-a9c2-7a59d8396f2c,2025-02-03,12,1725.39,"Electronics, Furniture",Clicked
+65cd5530-22ea-4764-89e2-5714ad8e0511,2025-02-02,4,137.57,"Furniture, Books",Ignored
+669b95fa-01c1-4803-813b-517ec506b585,2025-02-01,20,430.05,"Toys, Electronics",Opened
+6f832221-599e-409e-a479-1d6c65bf96b3,2025-02-03,13,176.38,Groceries,Converted
+d463aef6-4fab-443e-8ca2-b1a1c8627bef,2025-02-03,12,792.37,"Furniture, Clothing",Ignored
+8ef637cb-e39d-43c3-8844-bed8c8e2cb4e,2025-02-02,8,453.58,"Toys, Furniture, Sports",Converted
+f3fb76f2-8632-49de-8768-3b196994aa60,2025-02-02,14,1453.83,Books,Clicked
+b6f991c5-07ae-4527-b53b-6418a8fc69ab,2025-02-01,12,1098.77,"Groceries, Electronics",Converted
+47690b75-d59c-4bd2-873d-8daedb28aece,2025-02-03,14,773.96,"Health & Beauty, Groceries, Furniture",Clicked
+51008806-6d6e-4bb5-8140-3b051448b52a,2025-02-03,1,933.22,"Groceries, Books",Converted
+65631d64-2fe1-4db4-bd00-fa3f67b0be0a,2025-02-03,16,270.43,"Health & Beauty, Books",Converted
+beea434c-8742-46b1-b547-09cfae08811e,2025-02-03,6,1618.96,"Toys, Sports",Ignored
+78deb42f-84b4-4887-b7cb-8a9d71cf3b50,2025-02-01,1,630.19,Health & Beauty,Ignored
+c0821953-9edd-413d-a01b-65bb43d4edd3,2025-02-03,20,229.61,"Health & Beauty, Groceries",Clicked
+417f5bbc-39cb-411f-9f23-85409ad66747,2025-02-03,12,1078.56,"Electronics, Toys",Converted
+0a5b367c-a125-46f6-84ef-14234b9f413d,2025-02-01,9,273.87,"Electronics, Health & Beauty",Clicked
+f4265e7c-42f1-4a78-872b-c0dfb401dfcc,2025-02-03,15,1378.69,Toys,Converted
+9ca63f6d-35de-464f-9e93-f9ee0cb8dc0c,2025-02-02,12,1634.77,"Sports, Toys, Books",Ignored
+a583386e-6353-4fef-9777-25ff7798483a,2025-02-01,9,1431.41,"Sports, Groceries",Converted
+7730bebc-7068-4ca0-b7ee-a11f11da0fcc,2025-02-01,11,738.09,"Toys, Sports, Furniture",Converted
+9b7313db-760f-4917-a86a-7fa7832d85cf,2025-02-03,4,1536.02,"Toys, Clothing, Electronics",Converted
+410821e8-3879-4822-9008-326ff3026b5a,2025-02-03,20,263.33,Clothing,Clicked
+6bfbe4f8-3fb6-424c-9500-b310f2292752,2025-02-03,6,1114.06,"Health & Beauty, Electronics",Ignored
+dd7ae6b5-6a15-4e48-ac7b-0f24e884a2cf,2025-02-01,4,1118.94,"Books, Sports, Groceries",Opened
+84a5f50f-ebff-4f4b-a036-c5589072f075,2025-02-02,13,967.17,Groceries,Opened
+9002e126-c8e7-479b-9ecd-06fa8d8ab38e,2025-02-03,4,1272.64,"Sports, Groceries, Clothing",Opened
+7b5f7ce0-5e01-4556-ae97-20bd59535859,2025-02-03,18,311.5,"Toys, Sports, Groceries",Ignored
+74072450-1e18-459b-b8a2-cd9073c8ba72,2025-02-02,5,727.75,"Books, Clothing, Toys",Converted
+bab5c7f0-87de-4306-8d1e-418fe40c32c4,2025-02-02,6,510.71,"Health & Beauty, Groceries, Electronics",Ignored
+d29f5667-801e-44d8-af11-80c5436cdb49,2025-02-02,19,348.41,"Furniture, Clothing, Groceries",Ignored
+e151a47a-ad87-4c46-a864-9c7fd041d4be,2025-02-03,18,1158.06,Groceries,Opened
+5b28bcd0-2351-4cf7-b60a-f0d11d37237f,2025-02-02,6,673.39,"Electronics, Toys, Sports",Ignored
+7308e827-a251-4369-825d-9f058767f114,2025-02-01,17,392.28,"Groceries, Toys",Opened
+65ecb4cd-50dd-41c5-9e51-eddc70892ff7,2025-02-02,9,1624.77,"Furniture, Toys",Clicked
+becd5c29-34fe-45d1-9c1f-e464450cd793,2025-02-03,3,361.7,Sports,Converted
+a3e87d4f-fa2d-4cb2-b95a-cbb4a2dc0233,2025-02-01,19,1178.39,"Health & Beauty, Toys, Sports",Opened
+99e600d2-285a-465b-9bb8-78814bf1a2a2,2025-02-01,5,1500.07,"Groceries, Electronics, Books",Ignored
+08678750-641b-4d0d-b0d0-9ba5df93f7ae,2025-02-02,12,1178.92,"Toys, Furniture",Opened
+823853a7-5c0f-4046-b354-3ad45b1324e3,2025-02-02,2,712.82,"Electronics, Health & Beauty",Converted
+4737a928-c86e-4dfa-acc4-df30e2e40b88,2025-02-01,9,1573.04,Clothing,Ignored
+c1bc4196-8236-433f-b325-4068f266a003,2025-02-01,18,642.63,"Books, Electronics",Opened
+761eb84c-556a-4931-ae44-990f6eb87ec8,2025-02-02,7,1172.51,"Furniture, Groceries",Opened
+2f5386e3-47cd-4b80-9e5c-4d22d40951f4,2025-02-01,5,1978.11,"Health & Beauty, Furniture",Opened
+534bae80-0e69-4930-b8b9-8c4b797692f2,2025-02-02,4,328.77,"Toys, Furniture",Clicked
+77ce4bb3-b2e7-47df-a736-8a0839a42ded,2025-02-03,18,362.98,Furniture,Converted
+82429897-976e-4ee4-8b6f-098392be779b,2025-02-02,13,1419.21,"Health & Beauty, Books",Ignored
+56088425-b53d-4b3b-9fdb-ba1a3fcf76c7,2025-02-02,5,1927.19,"Groceries, Books, Toys",Opened
+90bdb69d-2eba-4321-8d05-ad11e674f98f,2025-02-03,18,784.43,"Furniture, Electronics, Groceries",Converted
+2ce0d0c6-75cc-413f-bb91-5a7d8f3ffe2d,2025-02-02,2,1431.24,Health & Beauty,Ignored
+5fcbfd56-2223-4ce6-9f1c-f152c6985c00,2025-02-01,8,270.32,Furniture,Clicked
+c2ba14f7-fb27-47ba-89e1-71d4e3867dd6,2025-02-02,5,1829.96,"Electronics, Clothing",Opened
+bf5630b2-8c9c-44d4-93aa-59c158e7dc20,2025-02-01,1,1293.58,"Furniture, Health & Beauty, Electronics",Opened
+cb080bac-c9aa-4b9c-ac31-c6eae861ab54,2025-02-01,14,1290.08,"Books, Clothing",Opened
+5e7059a6-cb89-4519-beb8-43e317556ba4,2025-02-03,2,915.55,Electronics,Clicked
+6990942a-7db7-4e79-9e94-60a6e3c79dd7,2025-02-02,19,1752.76,Furniture,Converted
+1b59997d-1a37-4900-88dd-cee940578bbe,2025-02-01,19,495.81,"Clothing, Sports",Ignored
+a29608cc-28b4-468a-a378-25e0e133a11c,2025-02-03,6,999.47,Groceries,Clicked
+6122283b-d679-453b-afce-d1731b060bbc,2025-02-02,19,1055.35,"Health & Beauty, Furniture",Converted
+31abf2e6-d02c-479f-8147-04b9a7230ccf,2025-02-03,12,1425.04,"Furniture, Health & Beauty",Converted
+dbbf01f7-8182-4eb6-95db-b933144f1471,2025-02-01,5,933.31,"Furniture, Electronics",Converted
+5282a5e0-806f-4bbc-8c98-d13ee6a1f3d3,2025-02-03,12,750.74,"Sports, Electronics",Ignored
+fe269153-0c79-4f36-8332-48dc13809d4b,2025-02-01,2,1959.27,"Books, Electronics, Furniture",Clicked
+1abcc9dd-1c37-454b-a8d3-a786b698f967,2025-02-02,19,1979.21,"Toys, Furniture",Ignored
+6cbeb094-cf98-4a4a-888f-99716fba5aaf,2025-02-03,9,1530.42,"Books, Toys, Sports",Converted
+20363fd6-2517-4b85-b5e2-95ce1113ef46,2025-02-02,2,1691.22,Books,Ignored
+95ff8c1c-b66f-4372-b6cf-4b5ee6f9f53a,2025-02-03,3,902.82,"Health & Beauty, Books",Opened
+9a1a9fee-587e-4bc0-8ff2-32347a59328d,2025-02-03,11,1223.97,"Health & Beauty, Clothing, Sports",Clicked
+df790add-64a7-4263-a935-2c6e57988c48,2025-02-03,10,969.75,"Clothing, Sports, Electronics",Converted
+cd675876-d6d3-4706-9178-9d57e4b50036,2025-02-01,14,1686.37,"Health & Beauty, Groceries, Furniture",Clicked
+5efacb2c-c8f6-4f1d-b22b-dbad801f2bdb,2025-02-03,13,619.48,Electronics,Converted
+44a278da-1555-4aef-9437-06f4daa40d3c,2025-02-03,18,689.48,"Groceries, Toys",Opened
+daa6a079-7c9d-484b-bc7b-bf581da8fc79,2025-02-02,13,971.07,"Groceries, Furniture",Converted
+c7b535e8-66b9-4c00-963d-1dc5bd67d86d,2025-02-01,13,864.64,"Sports, Furniture, Electronics",Opened
+0dcf10ea-b3d1-4628-8c44-909f6fad9977,2025-02-03,6,116.46,Books,Clicked
+cd0be1f8-c41e-4dec-93ec-632cccb159eb,2025-02-02,9,580.32,Clothing,Ignored
+7ae6db81-e820-44f1-b81c-2c3bc9901435,2025-02-01,14,530.9,"Electronics, Furniture, Toys",Clicked
+a7a3515f-61dc-46fb-bf34-01f068d56a63,2025-02-03,1,1520.36,"Electronics, Furniture, Groceries",Clicked
+727cff21-007e-4e9f-82e2-e9e28fcad7b5,2025-02-03,9,1568.34,"Books, Clothing, Furniture",Converted
+374b145b-11df-43e6-a4ac-e9003bcb4688,2025-02-03,18,1142.86,"Books, Sports",Opened
+ac6ec286-87bb-4ae9-926f-1ed829c1a41d,2025-02-01,14,58.13,"Sports, Groceries, Toys",Clicked
+f84ad565-fe68-4de6-a8cd-46878b790ce0,2025-02-02,18,1258.77,Groceries,Opened
+ea18f302-a1bc-4ba7-a1ac-65759bb16c9c,2025-02-01,9,1118.31,Furniture,Clicked
+7f9acaa6-b1c2-4f37-b08b-d6bcf177c2f2,2025-02-03,4,1103.42,"Sports, Clothing",Clicked
+b095b491-d381-4964-b5a5-0ffad0a0b98d,2025-02-03,6,1999.39,Sports,Converted
+3e557d85-a4e4-46c5-ad24-212af6a34fdb,2025-02-03,3,1881.49,"Health & Beauty, Electronics",Clicked
+62ee7331-2f5f-40f2-ac31-297fbd3d7dcb,2025-02-03,1,1463.55,"Health & Beauty, Groceries",Ignored
+9f7d4bc1-c68c-4f73-aed9-3956ceaaed71,2025-02-01,16,1861.98,"Sports, Health & Beauty",Clicked
+8bfb42be-f0cb-4481-a76d-acf775ec897c,2025-02-02,2,879.15,"Electronics, Health & Beauty",Clicked
+da1dd127-e50e-4a1f-ae37-eba830be136b,2025-02-03,19,1419.74,Toys,Converted
+9b10fef1-6de1-4d4a-887a-9d58fc95f6ee,2025-02-02,16,1427.38,Books,Ignored
+d34280f7-1297-45b5-9bdf-082ad3b03aec,2025-02-03,6,859.77,"Books, Health & Beauty",Converted
+4f276759-d61b-467a-af94-d6db4ed7eadd,2025-02-03,4,85.34,"Clothing, Books, Electronics",Opened
+a47ff9b7-f424-4995-a456-8316a4ac04fe,2025-02-01,9,1979.36,Furniture,Converted
+9b410ac2-9c3d-47dd-a653-88d14f861850,2025-02-02,15,613.43,"Groceries, Clothing",Clicked
+043b7aae-e969-4c28-b75c-b000f74822e1,2025-02-03,15,1649.85,Books,Clicked
+db743dc5-14b4-4450-bc11-5f55a46d1499,2025-02-01,13,362.75,Books,Opened
+bc23e2f8-5038-4067-8158-15a1c9206d4c,2025-02-02,14,276.26,"Electronics, Books, Clothing",Clicked
+51509c73-06d4-442d-a09c-955690294ce1,2025-02-01,11,363.58,"Toys, Groceries",Opened
+bba556a2-4ada-4e2f-b398-ec76c83d4994,2025-02-03,15,605.25,"Books, Clothing",Opened
+0ba989bf-2083-4466-8f9c-dc41b7a259b6,2025-02-01,4,1682.62,"Clothing, Sports, Groceries",Converted
+a89e9f5d-450f-4c29-af8f-9c09847fcee4,2025-02-03,5,358.54,Clothing,Ignored
+dc99be9f-6497-4ce6-8dc7-ccf09eb918e8,2025-02-01,9,1636.74,"Toys, Groceries",Opened
+426fa989-f95d-4a44-8273-844851bebf42,2025-02-01,14,333.55,"Sports, Groceries",Clicked
+2d7f9278-8264-47c7-9a62-f4c1b443e1c7,2025-02-01,9,1094.87,Clothing,Opened
+3d07629d-37e5-4483-bb99-9cc3169b043a,2025-02-02,7,1563.51,"Electronics, Sports",Ignored
+816548c0-9d42-49fb-b1a2-28047aca9e6e,2025-02-02,18,1707.1,"Clothing, Furniture, Groceries",Opened
+4d5b53f5-4c12-4e4c-b7f2-0afead7956cf,2025-02-02,20,1734.7,"Sports, Groceries, Electronics",Ignored
+7f147c17-a406-4c7a-b89d-743b20c484e6,2025-02-03,14,1741.49,"Electronics, Furniture",Converted
+ad4598d3-bcd7-47f9-a09a-d43f2fe66904,2025-02-02,15,974.17,"Furniture, Toys",Opened
+e94c5e41-7c8f-4b01-83ff-1e485d5bc134,2025-02-03,8,964.63,Books,Ignored
+765b22eb-3cdb-4f35-9cd1-677ad8e323d3,2025-02-02,19,54.77,Furniture,Ignored
+6778207a-f852-4a39-9c28-ebf91199838a,2025-02-02,8,942.1,"Sports, Clothing, Groceries",Clicked
+b49d98e5-a8dc-4c1a-9e58-442e3a489f35,2025-02-03,9,1623.07,"Groceries, Books, Clothing",Ignored
+e4d78f7f-e39a-4734-964e-729d7f3c9050,2025-02-01,6,1267.6,"Groceries, Toys",Converted
+bf4a31cc-be00-4d60-97b2-540f2046e41a,2025-02-02,8,610.65,"Groceries, Electronics, Sports",Clicked
+2f6079ad-8079-4d12-b16f-a92b92bc7a3a,2025-02-03,2,391.91,"Groceries, Clothing",Ignored
+07ead10f-d682-4d25-a8f7-f1f928b05870,2025-02-01,16,802.79,Clothing,Converted
+d1647ecf-6df9-4a9a-94b5-e5eff8422284,2025-02-01,4,836.22,"Books, Clothing",Converted
+cc5468f0-600f-4e45-b299-7d65445b49af,2025-02-01,9,141.27,"Books, Electronics, Furniture",Opened
+8cea41ab-6cc5-4040-86ce-7dadafc85d29,2025-02-01,15,849.31,Furniture,Ignored
+734694d7-ca9b-4e55-b92e-f4279f2c85d6,2025-02-02,14,173.04,"Health & Beauty, Electronics, Toys",Converted
+51163fb5-0ad2-426b-bae0-6aa0b8813e5f,2025-02-02,8,1533.05,"Sports, Books",Ignored
+1f7f5809-4b5d-49c0-bea9-f70b83c84749,2025-02-01,12,1337.24,Toys,Opened
+192417dc-fd5a-4964-802f-47f3a3caa8ba,2025-02-01,4,1441.99,"Groceries, Clothing, Electronics",Clicked
+58c68cfa-a81d-4d5a-9881-22f335c69d46,2025-02-03,5,1312.78,"Electronics, Furniture",Ignored
+8b06e83e-2a90-4ff8-814d-63b7b4e7672a,2025-02-01,16,1584.41,"Electronics, Toys",Converted
+e6b88696-a213-41a7-aaf8-a23b429397a9,2025-02-03,7,1128.94,"Furniture, Groceries, Books",Clicked
+6749c830-f0e2-4171-96f2-48a87b14fa57,2025-02-02,9,1696.91,Clothing,Converted
+9a2c9852-c461-46ac-8ad5-e47f1f6322ef,2025-02-01,19,427.77,"Books, Groceries",Converted
+29d930c3-b1d7-43f6-8380-514d30ea09e0,2025-02-02,14,683.05,"Sports, Clothing, Books",Opened
+a164c1a0-161d-49f4-bde6-c2470404b7c7,2025-02-01,3,1203.39,"Clothing, Health & Beauty, Furniture",Converted
+caa63dad-41dc-448d-a2b3-a1794f115214,2025-02-01,17,484.68,"Toys, Clothing, Health & Beauty",Opened
+15eb55bf-6e46-41df-9bb5-28ee6be46b03,2025-02-03,15,286.2,"Furniture, Toys",Converted
+1ea2ce0b-0b0c-4df2-9a66-584b02a3d539,2025-02-01,19,1672.94,"Toys, Sports",Ignored
+21261c16-d8e8-4c5d-818d-23107e94ada8,2025-02-03,15,730.81,Furniture,Converted
+5d4af59b-0a3d-4e6c-933c-53860477b605,2025-02-02,11,1090.87,"Toys, Groceries, Books",Clicked
+7ae5daba-0438-4a77-a3ed-9cdc667fb70f,2025-02-02,15,80.65,"Clothing, Sports, Toys",Clicked
+82808bd6-ad9f-4e20-bf81-2ddf6a860823,2025-02-01,11,1936.13,"Electronics, Toys, Books",Clicked
+51d89bdd-499c-4a50-b004-89d50cf7c0ef,2025-02-01,12,1364.76,Books,Ignored
+6f527aec-c7cf-4a99-ab2a-bf1c65a2dc98,2025-02-02,14,811.01,Clothing,Converted
+837474d6-bee3-4876-8f5c-edeb59e4b45a,2025-02-03,8,1202.51,"Health & Beauty, Sports, Groceries",Converted
+178eedff-51fc-4fbc-830e-a81158913ebc,2025-02-03,20,217.71,Books,Opened
+d62f7984-7d84-4620-98fc-a8eeb123a52d,2025-02-01,7,1909.73,Toys,Ignored
+ec447f67-ccea-4bd8-9bf7-5fe664e04714,2025-02-02,9,855.28,"Clothing, Sports",Opened
+13d0acbd-0db1-4773-987a-cb46d6c559ea,2025-02-01,2,545.82,"Sports, Health & Beauty, Books",Converted
+8f8169bc-f2db-4d41-bce6-11feebe20c2b,2025-02-01,9,306.86,"Furniture, Groceries, Sports",Clicked
+edb9dcb2-7584-40f1-b3d0-1888df8bebe1,2025-02-03,2,752.02,"Books, Electronics",Opened
+f2259e62-9307-497a-8b56-266ba1053bcd,2025-02-02,9,1381.12,"Clothing, Groceries, Electronics",Converted
+4b666c34-7abb-4fba-8b7b-7eee3ec35f5c,2025-02-02,10,537.32,Books,Converted
+eb6283c9-4335-41e3-a09d-d91c6c193659,2025-02-03,11,137.52,"Toys, Groceries",Clicked
+7492d39d-e9d8-4ea7-b96f-b64cabb913e9,2025-02-03,2,1370.36,"Health & Beauty, Clothing",Opened
+1bbe7bea-4342-460a-8e8b-c4beac757a72,2025-02-03,13,1677.07,Health & Beauty,Converted
+226fea21-e9ea-4152-9dc5-5ab74b4eed3c,2025-02-03,8,421.67,"Health & Beauty, Toys",Opened
+c29b2ec3-6399-4388-82b9-a6155ff4e487,2025-02-02,5,1510.04,Groceries,Clicked
+2d0bbc53-59bc-45bf-99f7-fe81ff2e0cd9,2025-02-02,5,211.6,"Health & Beauty, Furniture",Ignored
+5d763fb1-0883-4b8c-9cfb-b9e30daa9dfd,2025-02-02,6,1559.4,"Furniture, Clothing, Electronics",Opened
+eae7ca9b-3504-46da-a51d-1e7aa1cafec2,2025-02-02,13,1202.04,Furniture,Clicked
+ca1134b3-a38c-41ef-ac5d-c75bcf91489c,2025-02-02,20,1073.75,Books,Opened
+6a4ddffd-b572-46b4-81fd-d10693bb508a,2025-02-03,18,998.01,"Clothing, Sports, Groceries",Clicked
+fe1332cb-3ef0-4359-86fd-6aafb356466b,2025-02-02,15,828.4,"Books, Groceries",Clicked
+1c6a78fc-b233-4e67-a7c3-383d9d5a94e8,2025-02-01,1,1737.42,"Sports, Clothing",Ignored
+5840fd20-15f6-4558-a8f8-6057b5dde286,2025-02-02,2,451.43,"Health & Beauty, Sports, Books",Ignored
+4f035cf3-c898-46ab-8f89-453c16929b03,2025-02-03,1,1325.06,"Groceries, Health & Beauty",Converted
+248d9da1-0c55-4666-b9ae-d9dc688c43ec,2025-02-03,18,353.34,"Furniture, Electronics, Groceries",Clicked
+33cf3f5b-ad51-4ccc-90ff-890ff380c969,2025-02-02,14,504.04,"Furniture, Toys",Ignored
+64e5216f-8b84-40ee-acfc-e0625c62974d,2025-02-03,18,881.11,Toys,Ignored
+3227cee5-539b-444f-9b83-91f7c9fdbba5,2025-02-03,2,172.02,Books,Opened
+c623b5f9-1ad7-4054-ae08-49d79bbe0b22,2025-02-02,4,791.11,"Toys, Sports",Clicked
+3bc5fe3d-8193-46b0-a191-683ed65f5c3b,2025-02-01,4,443.0,Sports,Opened
+5243d3a4-ca34-44b1-9969-3594f1fae2d4,2025-02-03,3,1016.91,"Health & Beauty, Groceries, Electronics",Opened
+49a8f121-c0db-410e-a7be-d08e77fc4b18,2025-02-03,2,506.09,"Groceries, Books",Ignored
+1e1a5720-f6d3-4f1f-ac2a-0c57bb3b3e84,2025-02-02,14,680.3,"Books, Electronics",Converted
+a11fe5ac-96c9-48f3-a965-a5e7e19cea99,2025-02-03,12,1650.74,"Furniture, Health & Beauty, Sports",Opened
+0a60455d-1b6e-4b92-88d4-6046a4573146,2025-02-03,18,1583.72,Furniture,Converted
+96474cf6-bd5a-432c-9b53-7bb9fb527f4f,2025-02-01,1,1162.15,"Electronics, Health & Beauty",Clicked
+36aa5602-88d0-4363-a9c8-ad8307ca0f27,2025-02-03,8,969.5,"Clothing, Sports, Books",Opened
+527d86c7-4d84-4ac1-a51e-3f6eeac7ce89,2025-02-02,13,330.88,"Groceries, Electronics, Books",Ignored
+0df1f95a-318e-459e-a887-5c6ca159adc7,2025-02-02,1,342.7,Electronics,Clicked
+935cfce1-9aaa-4235-a3a9-c4d88d484e0c,2025-02-02,1,1142.83,"Clothing, Electronics",Opened
+dc493032-74d6-4efc-8d55-fee39505818d,2025-02-01,14,1030.09,"Books, Groceries, Health & Beauty",Clicked
+e46e317f-b496-45f8-b6c6-3fffca79b611,2025-02-02,19,166.61,Health & Beauty,Converted
+820bf1ed-eb37-42e4-bed0-cd5fbc70762a,2025-02-01,8,486.69,"Toys, Clothing",Converted
+f11a6fc5-6cdf-4ffa-9a4d-504d0edb6b72,2025-02-01,7,1969.43,Electronics,Converted
+1d9fb9e7-a421-42da-82c5-a505f99c4008,2025-02-02,17,1556.36,"Sports, Groceries, Electronics",Ignored
+1562f49d-4cec-49d5-b932-12ab650e6b2c,2025-02-01,14,529.11,Health & Beauty,Clicked
+e32e50ca-a022-4f21-8176-114b9c48b5ea,2025-02-01,2,1751.43,"Health & Beauty, Sports, Electronics",Clicked
+a03be806-8813-4649-82b3-d1dbddf9b381,2025-02-01,10,855.05,"Books, Clothing, Furniture",Opened
+3fe8989e-2137-4006-91ce-4a9f83235c7a,2025-02-03,7,257.3,Health & Beauty,Opened
+1c18c78a-183b-40f6-b41a-2660e9a79f8f,2025-02-03,1,673.42,"Toys, Furniture",Opened
+4c68af8e-abbc-47e6-9ae1-a9f926508638,2025-02-01,1,1419.3,"Health & Beauty, Electronics, Groceries",Opened
+4da7f167-e48e-4816-929a-dce62a99de10,2025-02-02,2,961.5,"Clothing, Furniture",Converted
+d3bfd3fe-3f61-44d4-8402-f2f7f5b9ed0a,2025-02-03,13,568.62,Books,Clicked
+49cef2dc-d39a-4d6e-8fbe-7491a3d2fc13,2025-02-02,16,885.22,"Toys, Furniture, Health & Beauty",Ignored
+c8e57d1b-07d9-4840-9088-f75e4b2d9a35,2025-02-02,2,1589.49,"Health & Beauty, Toys, Electronics",Opened
+15df069c-dfbf-441e-9dcb-10612d559e46,2025-02-02,15,1245.29,"Sports, Furniture",Converted
+2175a686-9ab9-4b98-838b-08595c773507,2025-02-01,14,1439.9,"Toys, Clothing, Health & Beauty",Ignored
+6c745f1a-aafa-4f84-bff2-861393b36d1d,2025-02-03,9,1966.34,Electronics,Opened
+2885ad27-acf5-44fb-8315-dd806d65f1ab,2025-02-02,12,1467.01,"Sports, Groceries",Opened
+a7ad038d-f5d5-4743-be6c-b780382a0cec,2025-02-01,5,741.9,"Sports, Toys",Converted
+43319569-86fc-4b03-8926-5adbfa6b15d2,2025-02-01,4,1043.27,Groceries,Opened
+e3ebf428-389c-4bec-8f13-a87473d7e059,2025-02-02,14,1883.04,"Toys, Electronics, Health & Beauty",Ignored
+a06a8446-65c1-4568-b933-0df36bd6d7ba,2025-02-01,13,761.09,"Clothing, Books",Ignored
+d7c5aa07-bd57-4018-869a-ac32f3a810db,2025-02-03,1,244.05,"Furniture, Toys, Electronics",Opened
+ce1213ed-4c0e-4bbf-b8a9-becfa779dcd0,2025-02-02,16,1483.44,"Sports, Clothing",Converted
+9aad7887-468c-45f2-be59-54438c03f22b,2025-02-01,16,974.74,Clothing,Opened
+05d40673-60fe-419b-935c-7817d879f3cb,2025-02-01,17,1034.55,"Clothing, Groceries, Toys",Clicked
+60b1e3ea-2414-41c0-b279-248362359fbd,2025-02-03,19,1487.16,"Sports, Books, Electronics",Opened
+e2ba1e9a-8890-450a-89fc-9f25d5f47bdf,2025-02-02,15,1184.17,"Groceries, Toys",Clicked
+018421f8-b484-4d84-a84f-1b1668dcce4d,2025-02-03,4,525.24,"Toys, Electronics, Groceries",Opened
+ac2a0acf-419e-40cd-a488-ec1cd97a3235,2025-02-01,14,1662.52,"Toys, Electronics, Groceries",Opened
+a479fc00-edd5-4b46-becd-a11fdecb3644,2025-02-02,18,222.97,"Toys, Electronics",Ignored
+eab3c032-6811-4de1-8b1e-84ba7d120070,2025-02-02,9,1203.31,Sports,Opened
+5c79f94f-ebbd-4ac9-9415-e95011b0234d,2025-02-03,13,345.24,"Electronics, Health & Beauty, Sports",Converted
+d99f165a-75c7-4519-a147-9b9786d82cdc,2025-02-01,14,402.21,"Books, Clothing",Converted
+86b941c5-e358-4d39-8d19-3a277eb0456b,2025-02-01,6,1430.78,"Electronics, Sports, Toys",Clicked
+8ee16752-abe9-4047-9636-67265f5afe6b,2025-02-03,18,575.11,"Furniture, Electronics",Clicked
+1c93ba12-c2d5-47ab-88c5-74f8dba1b706,2025-02-02,2,121.24,Electronics,Converted
+4adf90c3-425d-495b-acfd-7b9fbe3c6577,2025-02-02,1,1755.9,Furniture,Opened
+01503476-ed04-49aa-8339-e42ad5e75706,2025-02-03,6,681.29,"Furniture, Sports",Converted
+949986ce-d3b6-41f8-9708-a26d815cb14d,2025-02-01,11,666.08,"Groceries, Books, Toys",Opened
+0a8d420c-d0ed-47cb-bcb2-9baa022a2fff,2025-02-03,2,72.67,Furniture,Converted
+77b7cf95-1dd5-4c77-bac4-dc91d9409e4c,2025-02-03,15,1439.42,"Health & Beauty, Toys, Electronics",Opened
+39bf13c4-8b73-47ab-b52a-8d07080ed6c5,2025-02-03,1,460.62,"Health & Beauty, Toys, Sports",Ignored
+2fd5ecc5-8778-499e-8cd9-b8ae0dc639e8,2025-02-02,19,1487.72,"Health & Beauty, Clothing",Ignored
+3b4cdfb7-497b-47d5-9837-0db0f7085dca,2025-02-03,14,1619.93,"Toys, Clothing, Electronics",Ignored
+98ec039c-a7d5-4769-833c-a0621f3d8266,2025-02-02,2,996.14,Toys,Clicked
+794bd358-93df-4b59-bd75-f4a75ac31c8f,2025-02-01,11,371.84,"Clothing, Health & Beauty, Sports",Clicked
+132933d9-f1df-4d69-a152-1f8d8ac59745,2025-02-03,6,1123.51,"Furniture, Groceries, Books",Ignored
+5816930e-ea06-452a-a02a-32984cb67dc4,2025-02-02,17,1857.59,"Groceries, Health & Beauty",Clicked
+43d899a7-e57c-43b8-9514-79e7138d07e6,2025-02-02,14,1922.23,"Clothing, Health & Beauty",Converted
+831f57ba-ec23-4d72-a349-350b59c1340c,2025-02-01,19,1261.94,"Clothing, Electronics",Ignored
+806869db-0501-4e13-b7ad-fff0526e9c6d,2025-02-01,9,920.15,Books,Ignored
+6d0da0ad-f550-40da-8baa-67c108e9c6cc,2025-02-03,13,297.08,Toys,Clicked
+b7a166fe-bcbe-41ee-b0a0-8e1faf7262f1,2025-02-02,1,1722.4,Sports,Opened
+0fcc4121-0dd0-4fcf-bfb2-b02f80fe82cf,2025-02-03,3,1448.41,Groceries,Clicked
+d596217f-97ca-413f-925f-d5acdb5c8f71,2025-02-01,9,608.68,"Toys, Sports",Clicked
+6ea5182a-4f76-45d0-810d-c6d2bbec0121,2025-02-02,8,1112.29,"Sports, Toys",Opened
+9dc95d82-912d-48b6-b374-d5b92e649dab,2025-02-02,7,426.97,Books,Ignored
+bc3aae04-c53a-473a-b72c-31ba5216b705,2025-02-03,8,1655.48,Books,Ignored
+515a97d8-a3c0-40c1-8622-5668d032a11e,2025-02-01,8,1358.9,"Electronics, Furniture, Groceries",Clicked
+02cd330f-ebd7-47c2-935d-fa66a21d6ec0,2025-02-03,13,1477.26,"Health & Beauty, Clothing, Electronics",Converted
+5496199a-54aa-4831-979f-9b7118a3ef5b,2025-02-01,7,323.98,"Books, Furniture",Clicked
+225187d1-1603-44b9-bc0d-e2894dd98200,2025-02-01,8,1831.51,Clothing,Clicked
+29e2d04b-a57e-478c-b4d3-01a58e8bb540,2025-02-01,4,845.0,"Toys, Clothing, Health & Beauty",Ignored
+4ad87c77-2743-48d3-8c84-b183d0e06e3b,2025-02-03,12,1925.87,"Furniture, Clothing",Opened
+78b93d57-8a5d-40e4-8204-d28efeadea18,2025-02-02,11,870.52,"Sports, Electronics, Books",Ignored
+cd48850f-3d58-4908-ba6c-1ade863f6ba2,2025-02-02,4,829.83,"Clothing, Groceries",Clicked
+bf863215-69ca-4145-8e96-32b77e2ac7b0,2025-02-02,2,60.98,"Groceries, Health & Beauty, Furniture",Clicked
+aec7cb1c-833c-44fc-9acf-c406124e8893,2025-02-01,6,724.66,Health & Beauty,Ignored
+b82d0ce7-4dfb-4c87-9d1e-e8d07986bebf,2025-02-02,20,316.62,"Sports, Electronics",Ignored
+1a96adad-b53f-40b9-b379-de30606f2639,2025-02-03,16,608.53,"Groceries, Toys",Clicked
+55186ddb-32cd-453b-bb15-f9f98a11b69d,2025-02-01,9,1158.4,Groceries,Clicked
+5ca89e03-f2b9-4af3-a8b8-024b493ab937,2025-02-02,9,1313.54,"Books, Sports, Clothing",Converted
+e2c24e14-3c79-4675-aa1a-e12c2683021f,2025-02-01,17,443.78,"Clothing, Groceries",Opened
+ee51dee7-dcdb-4455-8eaa-0fd55e1a65cd,2025-02-01,9,1412.13,Sports,Opened
+8926dc31-3f8b-4254-a828-442bf005c22f,2025-02-02,13,1752.42,"Toys, Health & Beauty, Electronics",Converted
+c88554bb-4aa3-4b57-bf43-38af4127de87,2025-02-01,20,1803.27,"Electronics, Clothing, Books",Clicked
+13ab40ee-fe4f-4a09-aebe-efc4e71879f4,2025-02-01,15,1916.98,Books,Ignored
+ecbe5f97-8823-4826-b790-5eb5b751b565,2025-02-01,9,633.11,Groceries,Opened
+ebdb9538-e020-424f-b71f-fb1398363603,2025-02-01,15,614.08,"Furniture, Books, Electronics",Clicked
+14efe073-bbab-4699-8c30-623f3d269c93,2025-02-02,20,586.0,Groceries,Ignored
+9893f415-7417-41a7-9f32-2f4351c458cf,2025-02-02,7,615.31,Furniture,Opened
+57d105fd-1c8c-4839-87ef-3ccd9ee580f8,2025-02-02,14,630.24,"Furniture, Sports, Books",Ignored
+24c3acd7-8b3e-400f-bfa6-ae47c25469b0,2025-02-01,4,1535.02,"Health & Beauty, Groceries",Clicked
+3c93642d-3a0a-40b2-9906-205a99a2e97d,2025-02-02,12,233.01,"Clothing, Electronics",Ignored
+e7a3c09e-5237-4a06-b48d-856fe9bbfd8a,2025-02-03,3,1493.26,"Furniture, Groceries",Converted
+b99eac14-8a51-4cc6-8973-bef158147f31,2025-02-01,7,57.72,"Clothing, Toys, Sports",Opened
+bfe434e0-3e59-494f-9c02-ab9e461e733e,2025-02-02,11,1054.44,"Clothing, Furniture, Sports",Opened
+8f2f121a-f440-4bb9-979f-8c51f390b3a5,2025-02-01,9,1626.51,"Books, Toys, Groceries",Ignored
+5e9fe5a4-6255-48ff-b42d-4fd6fe6b3826,2025-02-03,13,200.52,"Sports, Toys",Converted
+1fbb2410-eea7-4871-9f25-1a5354093b2b,2025-02-02,19,1658.4,"Health & Beauty, Books, Groceries",Opened
+7776caee-e693-4983-9ada-3e0e4d366059,2025-02-02,12,476.44,"Electronics, Groceries",Clicked
+080527f4-442f-4abf-a113-57dcfc260467,2025-02-02,8,1383.8,"Furniture, Electronics",Converted
+80be321d-229d-476e-accd-19e091921538,2025-02-03,11,1626.56,Sports,Opened
+7fa61298-c386-474e-a628-16526478db7f,2025-02-03,20,1956.06,"Groceries, Books",Clicked
+3cecaaf2-eab2-44c6-8f03-43e1946b67d9,2025-02-02,19,504.84,Furniture,Clicked
+201a2129-3ff0-458a-8dd3-0ea99e566cf2,2025-02-01,16,293.17,Toys,Clicked
+31da613b-12cc-40d6-b562-aec487044bd8,2025-02-01,12,969.51,"Sports, Toys",Ignored
+29fe4b6c-55ba-4ee8-af94-3c6f00e0dc36,2025-02-01,12,976.0,"Books, Toys, Furniture",Clicked
+0deea729-6961-4333-ae9f-a3d775e0411f,2025-02-01,3,1539.13,"Clothing, Toys, Books",Ignored
+721ecd59-6bd4-4dd5-9ccb-52db5e8d2c34,2025-02-01,1,472.61,"Furniture, Sports, Health & Beauty",Opened
+096c1207-a669-473a-a299-0282008e539d,2025-02-03,2,1697.09,"Sports, Toys",Converted
+3230243b-0701-4e9a-afeb-dd76b0b9b15c,2025-02-01,14,873.19,Groceries,Ignored
+69fea067-5802-4ba0-a009-269c007eb402,2025-02-03,10,1153.64,"Books, Toys",Ignored
+fbc890d7-a3fc-4390-8e23-41b1c151d9ff,2025-02-02,10,678.2,"Health & Beauty, Furniture",Converted
+ab22c42b-bff5-4637-8ddb-5c1556318062,2025-02-03,1,125.01,Electronics,Converted
+59846b14-72b2-4500-9d75-3501c18c6c39,2025-02-02,7,1990.01,Toys,Converted
+ddebceaf-aa70-4730-ba8d-5833f1616c15,2025-02-03,1,1485.48,"Groceries, Toys, Clothing",Clicked
+03bd55bf-d821-41eb-aaa5-76e1669c11b3,2025-02-01,19,1698.05,"Groceries, Books, Clothing",Ignored
+d89825c9-3e05-435c-b3f3-2be9d2f453c3,2025-02-03,9,596.77,Clothing,Converted
+6ce48953-9b0d-4fee-95ae-25192d9b4331,2025-02-01,19,244.95,Health & Beauty,Clicked
+dce5969a-fd80-4e3f-b720-18468dc923e7,2025-02-01,8,1761.46,Clothing,Clicked
+76997882-ddcb-460e-b9cd-37254ffbb6fb,2025-02-02,3,243.08,"Groceries, Furniture",Clicked
+fc33d1f2-5e92-47df-937f-c7ad08f516b5,2025-02-02,5,1545.0,Electronics,Converted
+b446f441-f6af-4bb6-b7fe-5493bb23b8de,2025-02-01,8,780.92,Electronics,Opened
+a660ec3f-3947-48d4-89e4-c365206ad04a,2025-02-01,18,1862.89,"Sports, Books, Furniture",Converted
+4b1144ba-6a17-42e3-8d6c-15b1669234ca,2025-02-03,2,1272.21,"Electronics, Toys",Opened
+e3408a53-69fb-4aa1-a63c-3fdace6ee1f1,2025-02-02,14,1815.14,"Clothing, Electronics",Ignored
+7afcdb49-487f-4b2b-aff8-9e35120192fa,2025-02-02,17,562.23,Furniture,Clicked
+7a41efa3-0b67-4345-b483-bfd098865b7a,2025-02-01,11,711.47,Furniture,Ignored
+50d2d51b-64a2-4ae2-84aa-2564f2dd0cb6,2025-02-01,12,625.23,Furniture,Clicked
+bb240cfb-5de0-409c-8980-bb8aea0f0ccf,2025-02-01,3,399.69,"Furniture, Electronics",Ignored
+961e227c-d599-4795-9c8f-a188abd1916b,2025-02-01,6,1613.2,"Sports, Toys, Books",Converted
+bff69543-703a-4eea-a4c9-8aae12f8ac3b,2025-02-03,12,427.55,"Books, Sports",Converted
+b6ae7ccb-af3a-4e1d-ba47-6ae6dd640a2c,2025-02-03,7,1748.85,Electronics,Ignored
+e4655b94-3b76-46ea-92bf-007a577e6d5e,2025-02-03,16,1614.01,Toys,Opened
+3e30ce68-b005-4ae2-a7c7-c4f76d4db12f,2025-02-02,10,391.02,"Electronics, Clothing, Toys",Ignored
+559b8f9d-8099-4f18-97cd-acc73270af73,2025-02-01,8,402.38,Toys,Converted
+fcd3b37a-3b69-4e7b-aa52-ca6d953ef87f,2025-02-01,13,917.57,Toys,Clicked
+10b47599-be42-4fe9-9af0-a6005fc9cc63,2025-02-01,16,772.25,Books,Opened
+132001bf-9b16-4f53-ac81-70ffbca71cb6,2025-02-02,1,608.33,"Toys, Sports, Furniture",Opened
+fd757eb6-fb66-42f1-8fb4-7e339f552f2b,2025-02-01,10,1767.45,Groceries,Ignored
+51428347-4140-49ad-82e5-ce046596e77f,2025-02-03,1,93.55,Toys,Clicked
+27b1a767-1c58-437d-b822-0dfe0c3a7430,2025-02-02,12,1381.67,Toys,Opened
+174e6e15-efc4-4898-9666-1b3625312f8e,2025-02-01,18,694.71,"Electronics, Health & Beauty",Clicked
+a7d7326e-8c4c-4691-8ad5-94626ecf2b18,2025-02-02,6,1215.95,"Books, Furniture",Clicked
+b6669c38-387b-492c-b715-c7d0b7b1e90c,2025-02-03,3,1128.57,"Health & Beauty, Groceries",Converted
+4a340320-d12b-480f-8220-add7bbed06e8,2025-02-02,10,417.7,"Books, Sports, Toys",Ignored
+ca7840c2-1e95-4bc7-81a6-4937135dbdce,2025-02-03,15,1073.72,"Health & Beauty, Furniture",Clicked
